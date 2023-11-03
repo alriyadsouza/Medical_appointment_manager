@@ -35,16 +35,16 @@ questions = [
     "Please select your disease type from the options provided.",
 ]
 
-def get_question():
+def get_questions():
     i = 0
     while (i < len(questions)):
         yield questions[i]
         i += 1
 
-q_object = get_question()
+question = get_questions()
 
 def get_response(message):
-    return f"Hello {message} " + next(q_object)
+    return next(question)
 
 
 bot_name = "Sam"

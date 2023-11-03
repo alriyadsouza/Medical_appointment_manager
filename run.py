@@ -36,19 +36,15 @@ questions = [
 ]
 
 def get_questions():
-    i = 0
-    while (i < len(questions)):
-        yield questions[i]
-        i += 1
+    for q in questions:
+        yield q
 
 question = get_questions()
 
 def get_response(message):
     return next(question)
 
-
 bot_name = "Sam"
-
 
 class ChatApplication:
     

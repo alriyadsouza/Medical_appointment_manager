@@ -1,0 +1,1843 @@
+Doctor_id,Doctor's Name,speciality,time
+0,"Dr. Sanjosh Singh, DO",Dermatologist,10:30
+1,"Dr. Bradley Glodny, MD",Dermatologist,13:15
+2,"Dr. Vladyslava Doktor, DO",Dermatologist,17:30
+3,"Dr. Morgan Rabach, MD",Dermatologist,17:30
+4,"Dr. Alison Gruen, MD",Dermatologist,16:45
+5,"Dr. Robert L. Buka, MD, JD",Dermatologist,17:45
+6,"Dr. Lyubov Avshalumova, DO",Dermatologist,16:45
+7,"Dr. Lyubov Avshalumova, DO",Dermatologist,11:00
+8,"Dr. Dina Began, MD",Dermatologist,14:00
+9,"Dr. Uchenna Okereke, MD",Dermatologist,13:45
+10,"Dr. Charlotte Noorollah, DO",Dermatologist,12:00
+11,"Dr. Jonathan Trager, MD",Dermatologist,13:15
+12,"Dr. Sanjosh Singh, DO",Dermatologist,09:45
+13,"Dr. Jennifer Geiger, MD, FAAD",Dermatologist,16:15
+14,"Dr. Joyce Davis, MD",Dermatologist,10:15
+15,"Dr. Lian Mack, MD",Dermatologist,15:15
+16,"Dr. Pinkas Lebovits, MD",Dermatologist,12:00
+17,"Dr. Amy Spizuoco, DO",Dermatologist,17:00
+18,"Dr. Anjali Vekaria, MD",Dermatologist,11:45
+19,"Dr. Jennifer Geiger, MD, FAAD",Dermatologist,14:45
+20,"Dr. Janet Prystowsky, MD",Dermatologist,17:45
+21,"Dr. Jessica Feig, MD",Dermatologist,17:15
+22,"Dr. Jessica Feig, MD",Dermatologist,10:00
+23,"Dr. Omar Noor, MD, FAAD",Dermatologist,10:45
+24,"Dr. Tarek Yamany, MD",Dermatologist,12:45
+25,"Dr. Tarek Yamany, MD",Dermatologist,09:30
+26,"Dr. Babar Rao, MD, FAAD",Dermatologist,16:15
+27,"Dr. Amy Perlmutter, MD",Dermatologist,16:30
+28,"Dr. Amy Perlmutter, MD",Dermatologist,13:45
+29,"Dr. Karen Burke, MD",Dermatologist,16:00
+30,"Dr. Tamara Lazic Strugar, MD, FAAD",Dermatologist,14:30
+31,"Dr. Tamara Lazic Strugar, MD, FAAD",Dermatologist,13:00
+32,"Dr. Alison Gruen, MD",Dermatologist,15:00
+33,"Dr. Kristina Goldenberg, MD",Dermatologist,15:15
+34,"Dr. Robert L. Buka, MD, JD",Dermatologist,12:15
+35,"Dr. Amy Lewis, MD",Dermatologist,17:15
+36,"Dr. Monica Halem, MD, FAAD",Dermatologist,09:45
+37,"Dr. Fitzgeraldo Sanchez, MD",Dermatologist,17:45
+38,"Dr. Fitzgeraldo Sanchez, MD",Dermatologist,16:30
+39,"Dr. Douglas Altchek, MD",Dermatologist,09:00
+40,"Dr. Jonathan Ungar, MD",Dermatologist,16:00
+41,"Dr. Bruce E. Katz, MD",Dermatologist,10:15
+42,"Dr. Sanjosh Singh, DO",Dermatologist,12:30
+43,"Dr. Bruce E. Katz, MD",Dermatologist,11:45
+44,"Dr. Julide Celebi, MD",Dermatologist,13:45
+45,"Dr. Pinkas Lebovits, MD",Dermatologist,09:30
+46,"Dr. Debra Jaliman, MD",Dermatologist,15:30
+47,"Dr. Andrew Woolrich, MD",Dermatologist,13:30
+48,"Dr. Carolyn Chang, MD",Pediatrician,13:30
+49,"Dr. Jenny Shih, MD",Pediatrician,09:00
+50,"Dr. Eda Chao, MD",Pediatrician,10:15
+51,"Dr. Sonal Jani, MD",Cardiologist,14:15
+52,"Dr. Kenneth Giedd, MD",Cardiologist,15:00
+53,"Dr. Azadeh Beheshtian, MD",Cardiologist,14:45
+54,"Dr. Azadeh Beheshtian, MD",Cardiologist,13:00
+55,"Dr. Pramod Sanghi, MD",Cardiologist,16:30
+56,"Dr. Dmitry Gorelik, MD",Cardiologist,15:00
+57,"Dr. Salvatore Cavaleri, MD",Cardiologist,15:30
+58,"Dr. Abiola Dele-Michael, MD, FACC, MPH",Cardiologist,16:00
+59,"Dr. Abiola Dele-Michael, MD, FACC, MPH",Cardiologist,12:45
+60,"Dr. Peter Virzi, MD",Cardiologist,13:30
+61,"Dr. Maurice Rachko, MD",Cardiologist,09:45
+62,"Dr. Jeffrey Wessler, MD, MPH",Cardiologist,12:30
+63,"Dr. Kenneth Giedd, MD",Cardiologist,10:30
+64,"Dr. Peter Virzi, MD",Cardiologist,09:45
+65,"Dr. Robert Kornberg, MD",Cardiologist,09:15
+66,"Dr. Shyam Amin, MD",Cardiologist,09:45
+67,"Dr. Shyam Amin, MD",Cardiologist,14:15
+68,"Dr. Edo Paz, MD",Cardiologist,10:45
+69,"Dr. Sonal Jani, MD",Cardiologist,09:15
+70,"Dr. Sonal Jani, MD",Cardiologist,11:45
+71,"Dr. Sonal Jani, MD",Cardiologist,09:00
+72,"Dr. Marc Rybstein, MD",Cardiologist,16:00
+73,"Dr. Pramod Sanghi, MD",Cardiologist,17:00
+74,"Dr. Krysthel Engstrom, MD",Cardiologist,12:30
+75,"Dr. Sonal Jani, MD",Cardiologist,13:15
+76,"Dr. Jeffrey Kohn, MD, FACC",Cardiologist,15:00
+77,"Dr. Mary Greene, MD",Cardiologist,13:00
+78,"Dr. Alexander Mauskop, MD, FACC",Cardiologist,09:15
+79,"Dr. Salvatore Cavaleri, MD",Cardiologist,12:30
+80,"Dr. Robert Segal, MD",Cardiologist,12:00
+81,"Dr. Alexander Mauskop, MD, FACC",Cardiologist,15:45
+82,"Dr. Gargi Bajpayee, MD",Cardiologist,14:30
+83,"Dr. Gargi Bajpayee, MD",Cardiologist,12:30
+84,"Dr. Mark Meyer, MD, FACC, FACP",Cardiologist,14:30
+85,"Dr. Amnon Beniaminovitz, MD, FACC",Cardiologist,12:45
+86,"Dr. Shyam Amin, MD",Cardiologist,16:00
+87,"Dr. Shyam Amin, MD",Cardiologist,14:00
+88,"Dr. Mark Seldon, MD, FACC",Cardiologist,13:30
+89,"Dr. Henry Wu, MD, FACC",Cardiologist,11:30
+90,"Dr. Ellen Mellow, MD",Cardiologist,17:00
+91,"Dr. Sonal Jani, MD",Cardiologist,12:15
+92,"Dr. Ellen Mellow, MD",Cardiologist,11:15
+93,"Dr. Abiola Dele-Michael, MD, FACC, MPH",Cardiologist,17:00
+94,"Dr. Nina Mirsakov, DO",Cardiologist,11:00
+95,"Dr. Jossef Amirian, MD, FACC",Cardiologist,11:00
+96,"Dr. Hugo Rosero, DO",Cardiologist,15:00
+97,"Dr. Hugo Rosero, DO",Cardiologist,16:45
+98,"Dr. Olena Dotsenko, MD",Cardiologist,12:15
+99,"Dr. Olena Dotsenko, MD",Cardiologist,16:45
+100,"Dr. Kiruthika Balasundaram, MD",Cardiologist,09:30
+101,"Dr. Shyam Amin, MD",Cardiologist,09:30
+102,"Dr. Shyam Amin, MD",Cardiologist,09:15
+103,"Dr. Timothy Jayasundera, MD, FACC",Cardiologist,10:45
+104,"Dr. Eugene Khait, MD",Cardiologist,13:30
+105,"Dr. Richard Mueller, MD, FACC, FACP, FAHA",Cardiologist,17:45
+106,"Dr. Glenn Gandelman, MD, FACC, MPH",Cardiologist,12:45
+107,"Dr. Timothy Jayasundera, MD, FACC",Cardiologist,17:00
+108,"Dr. Abiola Dele-Michael, MD, FACC, MPH",Cardiologist,17:00
+109,"Dr. Sonal Jani, MD",Cardiologist,17:30
+110,"Dr. Fadi Karou, MD, FACC",Cardiologist,11:30
+111,"Dr. Anna Kezerashvili, MD",Cardiologist,14:30
+112,"Dr. Syed Iman Husain, MD",Cardiologist,12:15
+113,"Dr. Kenneth Giedd, MD",Cardiologist,12:30
+114,"Dr. Timothy Jayasundera, MD, FACC",Cardiologist,17:00
+115,"Dr. Bette Kim, MD",Cardiologist,09:00
+116,"Dr. Barry Bellovin, MD",Cardiologist,13:45
+117,"Dr. Sean Kotkin, MD",Cardiologist,13:45
+118,"Dr. Shyam Amin, MD",Cardiologist,16:45
+119,"Dr. Barry Huppert, MD",Cardiologist,11:00
+120,"Dr. Barry Huppert, MD",Cardiologist,17:45
+121,"Dr. Sonal Jani, MD",Cardiologist,17:15
+122,"Dr. Sean Kotkin, MD",Cardiologist,15:45
+123,"Dr. Mayer Rydzinski, MD, FACC",Cardiologist,11:45
+124,"Dr. Sonal Jani, MD",Cardiologist,16:30
+125,"Dr. Sachin Kumar Amruthlal Jain, MD",Cardiologist,17:30
+126,"Dr. Jerome Dubroff, MD",Cardiologist,10:15
+127,"Dr. Nay Htyte, MD, MS, FACC, FSCAI",Cardiologist,10:15
+128,"Dr. Pramod Sanghi, MD",Cardiologist,13:15
+129,"Dr. David Fridman, MD",Cardiologist,10:30
+130,"Dr. Salvatore Cavaleri, MD",Cardiologist,15:15
+131,"Dr. Michael Ghalchi, MD",Cardiologist,09:00
+132,"Dr. Sonal Jani, MD",Cardiologist,15:30
+133,"Dr. David Fridman, MD",Cardiologist,09:15
+134,"Dr. Vladimir Fridman, MD, FACC, FSCAI",Cardiologist,14:30
+135,"Dr. Sonal Jani, MD",Cardiologist,12:15
+136,"Dr. Nicole Harkin, MD",Cardiologist,17:45
+137,"Dr. Henry D. Wu, MD",Cardiologist,15:00
+138,"Dr. Henry Wu, MD, FACC",Cardiologist,16:45
+139,"Dr. Stephen Weiss, MD",Cardiologist,17:15
+140,"Dr. Stephen Weiss, MD",Cardiologist,12:15
+141,"Dr. Janice Chyou, MD",Cardiologist,13:30
+142,"Dr. Janice Chyou, MD",Cardiologist,17:45
+143,"Dr. Hugo Rosero, DO",Cardiologist,10:45
+144,"Dr. Hugo Rosero, DO",Cardiologist,13:30
+145,"Dr. Shyam Amin, MD",Cardiologist,14:15
+146,"Dr. Herbert Insel, MD, FACC",Cardiologist,16:45
+147,"Dr. Ankit R. Shah, MD",Cardiologist,13:00
+148,"Dr. Ankit R. Shah, MD",Cardiologist,15:30
+149,"Dr. Simon Thein, MD",Cardiologist,11:00
+150,"Dr. Mikhail Kapchits, MD",Cardiologist,17:45
+151,"Dr. Harmesh Mittal, MD",Cardiologist,09:00
+152,"Dr. Sonal Jani, MD",Cardiologist,13:15
+153,"Dr. Anna Kezerashvili, MD",Cardiologist,14:15
+154,"Dr. Aaron Berger, MD",Cardiologist,12:00
+155,"Dr. Janice Chyou, MD",Cardiologist,12:45
+156,"Dr. Olena Dotsenko, MD",Cardiologist,14:00
+157,"Dr. Dmitry Gorelik, MD",Cardiologist,16:00
+158,"Dr. Nicholas DuBois, MD",Cardiologist,12:30
+159,"Dr. Thomas Price, MD",Cardiologist,15:15
+160,"Dr. William Schwartz, MD",Cardiologist,16:15
+161,"Dr. Donna Ingram, MD",Cardiologist,14:45
+162,"Dr. Emmanuel Weiss, MD, FACC",Cardiologist,13:30
+163,"Dr. Mindy Markowitz, MD",Cardiologist,15:15
+164,"Dr. Timothy Jayasundera, MD, FACC",Cardiologist,14:45
+165,"Dr. Joseph C. Yu, MD",Cardiologist,14:45
+166,"Dr. Harmesh Mittal, MD",Cardiologist,12:00
+167,"Dr. Srinivas Kesanakurthy, MD",Cardiologist,15:00
+168,"Dr. Nay Htyte, MD, MS, FACC, FSCAI",Cardiologist,16:00
+169,"Dr. Sonal Jani, MD",Cardiologist,11:00
+170,"Dr. Ebrahim Issa, MD",Cardiologist,12:15
+171,"Dr. Michael Cohen, MD",Cardiologist,10:15
+172,"Dr. Mikhail Kapchits, MD",Cardiologist,16:45
+173,"Dr. Thakor C. Rana, MD",Cardiologist,16:30
+174,"Dr. Timothy Jayasundera, MD, FACC",Cardiologist,10:45
+175,"Dr. Dima Teitelman, MD",Cardiologist,13:00
+176,"Dr. Dima Teitelman, MD",Cardiologist,16:00
+177,"Dr. Chandana Attoti, MD, FACC",Cardiologist,10:00
+178,"Dr. Joseph C. Yu, MD",Cardiologist,16:15
+179,"Dr. Ed Rutkovsky, MD",Cardiologist,11:30
+180,"Dr. Nimish Dharia, MD, FACC",Cardiologist,16:15
+181,"Dr. Scott Ruffo, MD",Cardiologist,12:30
+182,"Dr. Jonathan Tardos, MD",Cardiologist,09:15
+183,"Dr. Roshini Malaney, DO",Cardiologist,13:15
+184,"Dr. Michael Cohen, MD",Cardiologist,10:45
+185,"Dr. Sonal Jani, MD",Cardiologist,10:30
+186,"Dr. Angel Mulkay, MD",Cardiologist,10:30
+187,"Dr. Van Hong Duong Nguyen, MD",Cardiologist,09:15
+188,"Dr. Henry Wu, MD, FACC",Cardiologist,12:45
+189,"Dr. Amnon Beniaminovitz, MD, FACC",Cardiologist,15:00
+190,"Dr. Omid Kohani, MD",Cardiologist,12:15
+191,"Dr. Steven Reisman, MD",Cardiologist,15:30
+192,"Dr. Ira Blaufarb, MD",Cardiologist,17:15
+193,"Dr. Aditya Mangla, DO, FSCAI",Cardiologist,13:30
+194,"Dr. Aditya Mangla, DO, FSCAI",Cardiologist,15:30
+195,"Dr. Glenn Gandelman, MD, FACC, MPH",Cardiologist,10:30
+196,"Dr. Steven Reisman, MD",Cardiologist,09:45
+197,"Dr. Jeff Bander, MD",Cardiologist,15:00
+198,"Dr. Pramod Sanghi, MD",Cardiologist,14:45
+199,"Dr. Derek Sun, MD, PhD",Cardiologist,17:45
+200,"Dr. Sachin Kumar Amruthlal Jain, MD",Cardiologist,11:45
+201,"Dr. Sonal Jani, MD",Cardiologist,09:45
+202,"Dr. Soo Mi Park, MD",Cardiologist,11:45
+203,"Dr. Steven Reisman, MD",Cardiologist,10:30
+204,"Dr. Emily Jackness, MD",Cardiologist,15:30
+205,"Dr. Sreeram Grandhi, MD",Cardiologist,11:30
+206,"Dr. Vinod Patel, MD, FACC, FSCAI",Cardiologist,12:30
+207,"Dr. Vinod Patel, MD, FACC, FSCAI",Cardiologist,13:00
+208,"Dr. Scott Ruffo, MD",Cardiologist,15:00
+209,"Dr. Maria Alexandra Rodriguez, MD",Cardiologist,09:00
+210,"Dr. John Peter Smith, DO",Cardiologist,13:00
+211,"Dr. Angel Mulkay, MD",Cardiologist,13:15
+212,"Dr. Zankhana Raval, MD",Cardiologist,17:15
+213,"Dr. Charlotte Noorollah, DO",Dermatologist,12:00
+214,"Dr. Dina Began, MD",Dermatologist,10:00
+215,"Dr. Alison Gruen, MD",Dermatologist,13:30
+216,"Dr. Sourab Choudhury, DO",Dermatologist,11:15
+217,"Dr. Robert L. Buka, MD, JD",Dermatologist,16:45
+218,"Dr. Sanjosh Singh, DO",Dermatologist,15:30
+219,"Dr. Nikhil Dhingra, MD",Dermatologist,15:45
+220,"Dr. Nikhil Dhingra, MD",Dermatologist,17:00
+221,"Dr. A. Paul M. Cellura, MD",Dermatologist,09:15
+222,"Dr. Bradford Katchen, MD",Dermatologist,14:30
+223,"Dr. Nikesh Patel, MD",Dermatologist,11:30
+224,"Dr. Nikesh Patel, MD",Dermatologist,09:45
+225,"Dr. Whitney Tan, MD",Dermatologist,16:15
+226,"Dr. Elyse Love, MD",Dermatologist,13:30
+227,"Dr. Bradley Glodny, MD",Dermatologist,16:15
+228,"Dr. Erin Kil, MD",Dermatologist,16:15
+229,"Dr. Kaylan Pustover, DO",Dermatologist,13:45
+230,"Dr. Jonathan Trager, MD",Dermatologist,11:15
+231,"Dr. Kaylan Pustover, DO",Dermatologist,11:15
+232,"Dr. Jonathan Trager, MD",Dermatologist,15:30
+233,"Dr. Nadine Kaskas, MD",Dermatologist,13:00
+234,"Dr. Dina Began, MD",Dermatologist,10:00
+235,"Dr. Uchenna Okereke, MD",Dermatologist,15:30
+236,"Dr. Sapna Palep, MD",Dermatologist,13:30
+237,"Dr. Nadia Kihiczak, MD",Dermatologist,12:30
+238,"Dr. Sourab Choudhury, DO",Dermatologist,11:30
+239,"Dr. Pinkas Lebovits, MD",Dermatologist,11:00
+240,"Dr. Robert L. Buka, MD, JD",Dermatologist,10:15
+241,"Dr. Alison Gruen, MD",Dermatologist,10:30
+242,"Dr. Michael Cameron, MD",Dermatologist,17:00
+243,"Dr. Tatyana Nektalova, MD",Dermatologist,14:30
+244,"Dr. Michael Cameron, MD",Dermatologist,11:00
+245,"Dr. Lyubov Avshalumova, DO",Dermatologist,13:00
+246,"Dr. Lyubov Avshalumova, DO",Dermatologist,16:45
+247,"Dr. Nikhil Dhingra, MD",Dermatologist,17:30
+248,"Dr. Sanjosh Singh, DO",Dermatologist,11:15
+249,"Dr. Nadia Kihiczak, MD",Dermatologist,12:45
+250,"Dr. Tatyana Nektalova, MD",Dermatologist,09:00
+251,"Dr. Adelle Quintana, MD, FAAD",Dermatologist,17:00
+252,"Dr. Vishal Saggar, MD",Dermatologist,11:00
+253,"Dr. Vishal Saggar, MD",Dermatologist,15:45
+254,"Dr. Anjali Vekaria, MD",Dermatologist,16:45
+255,"Dr. Kareem Halim, MD",Dermatologist,11:30
+256,"Dr. Shilesh Iyer, MD",Dermatologist,13:15
+257,"Dr. Jennifer Geiger, MD, FAAD",Dermatologist,10:15
+258,"Dr. Cybele Fishman, MD",Dermatologist,12:45
+259,"Dr. Jessica Feig, MD",Dermatologist,16:15
+260,"Dr. Jessica Feig, MD",Dermatologist,09:30
+261,"Dr. Amy Spizuoco, DO",Dermatologist,10:00
+262,"Dr. Adelle Quintana, MD, FAAD",Dermatologist,14:15
+263,"Dr. Kiran Mian, DO",Dermatologist,13:45
+264,"Dr. George Kihiczak, MD, FAAD",Dermatologist,14:30
+265,"Dr. Janet Prystowsky, MD",Dermatologist,12:30
+266,"Dr. Cybele Fishman, MD",Dermatologist,15:15
+267,"Dr. Morgan Rabach, MD",Dermatologist,09:15
+268,"Dr. Richard Mizuguchi, MD",Dermatologist,16:45
+269,"Dr. Richard Mizuguchi, MD",Dermatologist,10:00
+270,"Dr. Salma Pothiawala, MD, MPH",Dermatologist,10:45
+271,"Dr. Jennifer Geiger, MD, FAAD",Dermatologist,12:15
+272,"Dr. Georgina Ferzli, MD",Dermatologist,15:45
+273,"Dr. Omar Noor, MD, FAAD",Dermatologist,13:15
+274,"Dr. Carlos Charles, MD",Dermatologist,10:45
+275,"Dr. Carlos Charles, MD",Dermatologist,10:00
+276,"Dr. Leah Ansell, MD",Dermatologist,13:15
+277,"Dr. Lian Mack, MD",Dermatologist,17:15
+278,"Dr. Tarek Yamany, MD",Dermatologist,15:30
+279,"Dr. Tarek Yamany, MD",Dermatologist,10:00
+280,"Dr. Joyce Davis, MD",Dermatologist,10:00
+281,"Dr. George Kihiczak, MD, FAAD",Dermatologist,15:00
+282,"Dr. Shilesh Iyer, MD",Dermatologist,11:30
+283,"Dr. Charlotte Birnbaum, MD",Dermatologist,09:15
+284,"Dr. Karen Burke, MD",Dermatologist,10:45
+285,"Dr. Ariel Ostad, MD",Dermatologist,11:30
+286,"Dr. Nadine Kaskas, MD",Dermatologist,15:00
+287,"Dr. Georgina Ferzli, MD",Dermatologist,16:00
+288,"Dr. Tatyana Nektalova, MD",Dermatologist,13:30
+289,"Dr. Vicki J. Levine, MD",Dermatologist,14:15
+290,"Dr. Tamara Lazic Strugar, MD, FAAD",Dermatologist,14:45
+291,"Dr. Tamara Lazic Strugar, MD, FAAD",Dermatologist,10:15
+292,"Dr. Kareem Halim, MD",Dermatologist,12:45
+293,"Dr. Antonia Kofinas, MD",Dermatologist,12:30
+294,"Dr. Neal Schultz, MD",Dermatologist,11:30
+295,"Dr. Forrest White, MD",Dermatologist,09:45
+296,"Dr. Charlotte Birnbaum, MD",Dermatologist,11:00
+297,"Dr. Kiran Mian, DO",Dermatologist,13:45
+298,"Dr. Janet Prystowsky, MD",Dermatologist,10:15
+299,"Dr. Julia Wu, MD",Dermatologist,12:00
+300,"Dr. Salma Pothiawala, MD, MPH",Dermatologist,15:45
+301,"Dr. Saurabh Lodha, MD",Dermatologist,13:30
+302,"Dr. William Long, MD, FAAD",Dermatologist,16:30
+303,"Dr. Falguni Asrani, MD",Dermatologist,17:30
+304,"Dr. Falguni Asrani, MD",Dermatologist,12:30
+305,"Dr. Kristina Goldenberg, MD",Dermatologist,14:00
+306,"Dr. Amy Lewis, MD",Dermatologist,10:00
+307,"Dr. Jonathan Ungar, MD",Dermatologist,15:15
+308,"Dr. Bijan Safai, MD, DSc",Dermatologist,17:30
+309,"Dr. Forrest White, MD",Dermatologist,09:15
+310,"Dr. Richard Mizuguchi, MD",Dermatologist,12:00
+311,"Dr. Richard Mizuguchi, MD",Dermatologist,16:15
+312,"Dr. Richard Mizuguchi, MD",Dermatologist,11:00
+313,"Dr. Juliya Fisher, MD",Dermatologist,13:00
+314,"Dr. Ellen Burov, MD",Dermatologist,15:30
+315,"Dr. Rita Linkner, MD",Dermatologist,15:00
+316,"Dr. Susan Bard, MD",Dermatologist,15:15
+317,"Dr. Susan Bard, MD",Dermatologist,16:30
+318,"Dr. Neil Sadick, MD",Dermatologist,10:15
+319,"Dr. David Colbert, MD",Dermatologist,12:15
+320,"Dr. Sapna Palep, MD",Dermatologist,12:45
+321,"Dr. Richard Mizuguchi, MD",Dermatologist,15:00
+322,"Dr. Amy Perlmutter, MD",Dermatologist,15:45
+323,"Dr. Andrew Alexis, MD",Dermatologist,16:45
+324,"Dr. Sheryl D. Clark, MD",Dermatologist,16:15
+325,"Dr. Michael Mann, MD",Dermatologist,11:15
+326,"Dr. Soren White, MD",Dermatologist,17:30
+327,"Dr. Robert L. Buka, MD, JD",Dermatologist,16:45
+328,"Dr. Jaimie Glick, MD",Dermatologist,16:15
+329,"Dr. Douglas Altchek, MD",Dermatologist,10:00
+330,"Dr. Komal Pandya, MD",Dermatologist,14:45
+331,"Dr. Komal Pandya, MD",Dermatologist,10:45
+332,"Dr. Alison Gruen, MD",Dermatologist,12:30
+333,"Dr. Amy Perlmutter, MD",Dermatologist,15:45
+334,"Dr. Saurabh Lodha, MD",Dermatologist,09:45
+335,"Dr. Omar Torres, MD",Dermatologist,12:00
+336,"Dr. Monica Halem, MD, FAAD",Dermatologist,12:00
+337,"Dr. Julide Celebi, MD",Dermatologist,09:00
+338,"Dr. Sheryl D. Clark, MD",Dermatologist,15:15
+339,"Dr. Arash Akhavan, MD",Dermatologist,11:30
+340,"Dr. Babar Rao, MD, FAAD",Dermatologist,14:30
+341,"Dr. Tatyana Groysman, DO",Dermatologist,10:45
+342,"Dr. Sanjosh Singh, DO",Dermatologist,12:30
+343,"Dr. Juliya Fisher, MD",Dermatologist,13:00
+344,"Dr. Emmanuel Loucas, MD",Dermatologist,11:15
+345,"Dr. Saakshi Khattri, MD",Dermatologist,13:30
+346,"Dr. Rachel Maiman, MD",Dermatologist,11:45
+347,"Dr. Dhaval Bhanusali, MD",Dermatologist,11:30
+348,"Dr. Georgina Ferzli, MD",Dermatologist,16:00
+349,"Dr. Rachel Maiman, MD",Dermatologist,14:15
+350,"Dr. Fitzgeraldo Sanchez, MD",Dermatologist,16:15
+351,"Dr. Fitzgeraldo Sanchez, MD",Dermatologist,16:30
+352,"Dr. Rachel Maiman, MD",Dermatologist,14:00
+353,"Dr. Libby Rhee, DO",Dermatologist,09:30
+354,"Dr. Jessica Feig, MD",Dermatologist,12:45
+355,"Dr. Reena Rupani, MD",Dermatologist,10:00
+356,"Dr. Reena Rupani, MD",Dermatologist,17:15
+357,"Dr. Bruce E. Katz, MD",Dermatologist,09:00
+358,"Dr. Richard Mizuguchi, MD",Dermatologist,16:45
+359,"Dr. Richard Mizuguchi, MD",Dermatologist,17:45
+360,"Dr. William Long, MD, FAAD",Dermatologist,16:30
+361,"Dr. Julide Celebi, MD",Dermatologist,11:15
+362,"Dr. Bruce E. Katz, MD",Dermatologist,15:30
+363,"Dr. Tatyana Groysman, DO",Dermatologist,10:30
+364,"Dr. Adam Nabatian, MD",Dermatologist,14:45
+365,"Dr. Annette Czernik, MD",Dermatologist,11:15
+366,"Dr. Pinkas Lebovits, MD",Dermatologist,12:45
+367,"Dr. Paul Dantzig, MD",Dermatologist,11:00
+368,"Dr. Nanette Silverberg, MD",Dermatologist,12:45
+369,"Dr. Debra Jaliman, MD",Dermatologist,14:15
+370,"Dr. Andrew Woolrich, MD",Dermatologist,15:45
+371,"Dr. Emmanuel Loucas, MD",Dermatologist,14:15
+372,"Dr. Kareem Halim, MD",Dermatologist,16:30
+373,"Dr. Dina Began, MD",Dermatologist,12:15
+374,"Dr. Meghan OBrien, MD",Dermatologist,15:00
+375,"Dr. Alexandra Golant, MD",Dermatologist,17:45
+376,"Dr. Pinkas Lebovits, MD",Dermatologist,11:30
+377,"Dr. Barry A. Solomon, MD, FAAD, JD",Dermatologist,17:45
+378,"Dr. Komal Pandya, MD",Dermatologist,14:30
+379,"Dr. Komal Pandya, MD",Dermatologist,11:45
+380,"Dr. Bradford Katchen, MD",Dermatologist,15:15
+381,"Dr. Kareem Halim, MD",Dermatologist,16:00
+382,"Dr. Meryl Joerg, MD, FAAD",Dermatologist,17:00
+383,"Dr. Jessica Weiser, MD, FAAD",Dermatologist,15:45
+384,"Dr. Judith Hellman, MD",Dermatologist,17:45
+385,"Dr. Sourab Choudhury, DO",Dermatologist,15:45
+386,"Dr. Jody Levine, MD",Dermatologist,17:45
+387,"Dr. Rita Linkner, MD",Dermatologist,14:15
+388,"Dr. Meryl Joerg, MD, FAAD",Dermatologist,14:00
+389,"Dr. Elena Bruck, MD",Psychiatrist,13:45
+390,"Dr. Jacob Leivent, MD",Psychiatrist,16:00
+391,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:00
+392,"Dr. Susan Fiester, MD",Psychiatrist,12:30
+393,"Dr. Gordon Jay Strauss, MD",Psychiatrist,12:00
+394,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:15
+395,"Dr. Zorica Filipovic-Jewell, MD",Psychiatrist,11:45
+396,"Dr. Sudhir Gadh, MD",Psychiatrist,16:30
+397,"Dr. Norman Lee, MD",Psychiatrist,10:30
+398,"Dr. Norman Lee, MD",Psychiatrist,12:30
+399,"Dr. Roxanna Namavar, DO",Psychiatrist,12:00
+400,"Dr. Howard Welsh, MD",Psychiatrist,10:30
+401,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:15
+402,"Dr. Edward Fruitman, MD",Psychiatrist,09:15
+403,"Dr. Ziv Cohen, MD",Psychiatrist,14:45
+404,"Dr. Elena Bruck, MD",Psychiatrist,17:00
+405,"Dr. Ziv Cohen, MD",Psychiatrist,17:45
+406,"Dr. Yihou (Mike) Zhou, MD",Psychiatrist,15:00
+407,"Dr. Irina Kogan, MD",Psychiatrist,13:30
+408,"Dr. Michael Tanzer, MD",Psychiatrist,10:15
+409,"Dr. Daniel Rosen, MD",Psychiatrist,11:15
+410,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,11:15
+411,"Dr. Abby Altman, MD",Psychiatrist,14:00
+412,"Dr. Robert Steinmuller, MD",Psychiatrist,10:15
+413,"Dr. Vladan Novakovic, MD",Psychiatrist,13:15
+414,"Dr. Pavel Filimonov, MD",Psychiatrist,11:00
+415,"Dr. Allison Lee, MD",Psychiatrist,12:30
+416,"Dr. Richard Brent, MD",Psychiatrist,10:30
+417,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,10:45
+418,"Dr. Barry Richman, MD",Psychiatrist,09:30
+419,"Dr. Barry Richman, MD",Psychiatrist,12:45
+420,"Dr. Billy Jones, MD, DFAPA",Psychiatrist,15:15
+421,"Dr. George Wing, MD",Psychiatrist,17:00
+422,"Dr. Jonathan Erber, MD",Gastroenterologist,12:00
+423,"Dr. Anthony Starpoli, MD",Gastroenterologist,16:45
+424,"Dr. Michael Blechman, MD",Gastroenterologist,09:15
+425,"Dr. Michael Blechman, MD",Gastroenterologist,14:45
+426,"Dr. Cheryl Cottrol, MD",Neurologist,16:00
+427,"Dr. Piyush Mehta, MD",Pediatrician,15:45
+428,"Dr. Piyush Mehta, MD",Pediatrician,10:00
+429,"Dr. Russell Levine, MD",Ophthalmologist,12:30
+430,"Dr. Leeber Cohen, MD",Ophthalmologist,16:45
+431,"Dr. Allie Nadelson, MD",Ophthalmologist,11:15
+432,"Dr. Dalia Nagel, MD",Ophthalmologist,12:30
+433,"Dr. Samuel Wong, MD",Ophthalmologist,16:30
+434,"Dr. Christopher Coad, MD, FACS",Ophthalmologist,13:15
+435,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,13:00
+436,"Dr. Lawrence Pape, MD",Ophthalmologist,17:45
+437,"Dr. Dalia Nagel, MD",Ophthalmologist,15:15
+438,"Dr. Anthony Curreri, MD",Ophthalmologist,16:45
+439,"Dr. Michel Moulin, MD",Ophthalmologist,16:00
+440,"Dr. Debra Guthrie, MD",Ophthalmologist,15:30
+441,"Dr. Relly Chern, MD",Ophthalmologist,14:45
+442,"Dr. Sandra Belmont, MD",Ophthalmologist,09:30
+443,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,13:15
+444,"Dr. Robert Auerbach, MD",Ophthalmologist,16:00
+445,"Dr. Jonathan Ellant, MD",Ophthalmologist,14:15
+446,"Dr. Marc Rubinstein, MD",Ophthalmologist,10:00
+447,"Dr. Ari Weitzner, MD",Ophthalmologist,11:45
+448,"Dr. Scott Weissman, MD",Ophthalmologist,17:45
+449,"Dr. Allie Nadelson, MD",Ophthalmologist,17:30
+450,"Dr. Robert Ritch, MD",Ophthalmologist,09:15
+451,"Dr. Michael Newton, MD",Ophthalmologist,16:00
+452,"Dr. Hindola Konrad, MD",Ophthalmologist,16:15
+453,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,13:00
+454,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,16:45
+455,"Dr. Robert Friedman, MD",Ophthalmologist,11:30
+456,"Dr. Leonard Bley, MD",Ophthalmologist,13:45
+457,"Dr. Dalia Nagel, MD",Ophthalmologist,16:00
+458,"Dr. Warren Appleman, MD",Ophthalmologist,10:45
+459,"Dr. Jacqueline W. Muller, MD",Ophthalmologist,10:30
+460,"Dr. Benjamin Whigham, MD",Ophthalmologist,16:00
+461,"Dr. Sajid Malik, MD, FACS, FACP",Ophthalmologist,16:45
+462,"Dr. Eric Dessner, MD",Ophthalmologist,17:30
+463,"Dr. Maria Basile, MD",Ophthalmologist,09:15
+464,"Dr. Maria Basile, MD",Ophthalmologist,10:15
+465,"Dr. Edward Rubinchik, MD",Ophthalmologist,10:45
+466,"Dr. Joseph Sturm, MD",Ophthalmologist,10:45
+467,"Dr. Maria Basile, MD",Ophthalmologist,11:00
+468,"Dr. Maria Basile, MD",Ophthalmologist,10:00
+469,"Dr. Samuel Wong, MD",Ophthalmologist,09:30
+470,"Dr. Douglas Friedrich, MD",Ophthalmologist,17:30
+471,"Dr. Douglas Friedrich, MD",Ophthalmologist,12:45
+472,"Dr. Emily Moriarty, MD",Ophthalmologist,15:45
+473,"Dr. Howard Kornstein, MD",Ophthalmologist,15:30
+474,"Dr. Jessica Fleishman, MD",Ophthalmologist,10:00
+475,"Dr. Marcia Tapper-Rosenberg, MD",Ophthalmologist,16:45
+476,"Dr. Adam Schneiderman, MD",Ophthalmologist,15:00
+477,"Dr. Adebukola Adebayo, MD",Ophthalmologist,17:00
+478,"Dr. Beatrice Whitaker, MD",Ophthalmologist,16:30
+479,"Dr. Joseph Sturm, MD",Ophthalmologist,17:15
+480,"Dr. Richard Scott Russell, MD",Ophthalmologist,09:00
+481,"Dr. Izak Herschitz, MD",Ophthalmologist,11:45
+482,"Dr. Izak Herschitz, MD",Ophthalmologist,15:30
+483,"Dr. Akhilesh Singh, MD",Ophthalmologist,14:30
+484,"Dr. Daniel Khodadadian, MD",Ophthalmologist,17:30
+485,"Dr. Kim Le, MD",Ophthalmologist,09:15
+486,"Dr. Mark Avinoam Bitton, MD",Ophthalmologist,10:15
+487,"Dr. Julius Shulman, MD",Ophthalmologist,11:30
+488,"Dr. Samuel Miller, MD",Ophthalmologist,12:15
+489,"Dr. Samuel Miller, MD",Ophthalmologist,16:00
+490,"Dr. Sajid Malik, MD, FACS, FACP",Ophthalmologist,13:15
+491,"Dr. Murray Orbuch, MD",Gastroenterologist,11:45
+492,"Dr. Murray Orbuch, MD",Gastroenterologist,12:00
+493,"Dr. Jahnavi Naik, MD",Gastroenterologist,17:00
+494,"Dr. Jonathan Erber, MD",Gastroenterologist,14:30
+495,"Dr. Murray Orbuch, MD",Gastroenterologist,10:30
+496,"Dr. Anthony Ng, MD",Gastroenterologist,17:00
+497,"Dr. Charles Friedlander, MD",Gastroenterologist,11:30
+498,"Dr. Jonathan Cohen, MD",Gastroenterologist,13:15
+499,"Dr. Albert Harary, MD",Gastroenterologist,16:15
+500,"Dr. Todd Linden, MD",Gastroenterologist,10:15
+501,"Dr. George Haroutiounian, MD",Gastroenterologist,12:45
+502,"Dr. Michael Glick, MD",Gastroenterologist,17:15
+503,"Dr. Heather Klavan, MD",Gastroenterologist,13:30
+504,"Dr. Neal Joseph, MD",Gastroenterologist,09:00
+505,"Dr. Neal Joseph, MD",Gastroenterologist,16:30
+506,"Dr. Michael Glick, MD",Gastroenterologist,16:30
+507,"Dr. Inessa Khaykis, MD",Gastroenterologist,17:00
+508,"Dr. Mikhail Yakubov, MD",Gastroenterologist,10:15
+509,"Dr. Mikhail Yakubov, MD",Gastroenterologist,14:30
+510,"Dr. Daniel L. Motola, MD, PhD",Gastroenterologist,12:00
+511,"Dr. Daniel L. Motola, MD, PhD",Gastroenterologist,13:30
+512,"Dr. Veronika Dubrovskaya, MD",Gastroenterologist,17:15
+513,"Dr. Babak Mohajer, MD",Gastroenterologist,09:00
+514,"Dr. Murray Orbuch, MD",Gastroenterologist,12:00
+515,"Dr. Max Pitman, MD",Gastroenterologist,15:45
+516,"Dr. Veronika Dubrovskaya, MD",Gastroenterologist,09:30
+517,"Dr. Jahnavi Naik, MD",Gastroenterologist,12:15
+518,"Dr. Valerie Antoine-Gustave, MD, MPH",Gastroenterologist,13:30
+519,"Dr. Valerie Antoine-Gustave, MD, MPH",Gastroenterologist,16:45
+520,"Dr. Alex Sherman, MD",Gastroenterologist,09:00
+521,"Dr. Timothy Johnson, MD",Gastroenterologist,17:15
+522,"Dr. Edward Brettholz, MD",Gastroenterologist,12:30
+523,"Dr. Scott Weber, MD",Gastroenterologist,15:30
+524,"Dr. Kristen Lee, MD",Gastroenterologist,14:30
+525,"Dr. Kristen Lee, MD",Gastroenterologist,13:30
+526,"Dr. Murray Orbuch, MD",Gastroenterologist,10:00
+527,"Dr. Deborah Yvette L. Chua, MD",Gastroenterologist,09:00
+528,"Dr. James Salik, MD",Gastroenterologist,16:45
+529,"Dr. Jonathan Erber, MD",Gastroenterologist,17:15
+530,"Dr. Kati Glockenberg, MD",Gastroenterologist,11:45
+531,"Dr. Scott Weber, MD",Gastroenterologist,17:00
+532,"Dr. Martin Wolff, MD, FACG",Gastroenterologist,13:00
+533,"Dr. Martin Wolff, MD, FACG",Gastroenterologist,13:30
+534,"Dr. James Salik, MD",Gastroenterologist,16:00
+535,"Dr. Caterina Oneto, MD",Gastroenterologist,15:15
+536,"Dr. Martin Wolff, MD, FACG",Gastroenterologist,14:45
+537,"Dr. Martin Wolff, MD, FACG",Gastroenterologist,14:30
+538,"Dr. Deborah Yvette L. Chua, MD",Gastroenterologist,09:30
+539,"Dr. Jonathan Weinberger, MD",Gastroenterologist,15:30
+540,"Dr. Lauren Schwartz, MD",Gastroenterologist,11:00
+541,"Dr. Yevgenia Pashinsky, MD",Gastroenterologist,14:15
+542,"Dr. Alex Sherman, MD",Gastroenterologist,09:15
+543,"Dr. Valerie Antoine-Gustave, MD, MPH",Gastroenterologist,14:45
+544,"Dr. Valerie Antoine-Gustave, MD, MPH",Gastroenterologist,17:30
+545,"Dr. Caterina Oneto, MD",Gastroenterologist,14:30
+546,"Dr. Julie Foont, MD",Gastroenterologist,16:15
+547,"Dr. Julie Foont, MD",Gastroenterologist,10:45
+548,"Dr. Sain Sain Lu, MD",Gastroenterologist,17:00
+549,"Dr. Bharat Sanghavi, MD",Gastroenterologist,10:00
+550,"Dr. Edward Brettholz, MD",Gastroenterologist,17:30
+551,"Dr. Kati Glockenberg, MD",Gastroenterologist,13:45
+552,"Dr. Murray Orbuch, MD",Gastroenterologist,13:45
+553,"Dr. Rebekah G Gross, MD",Gastroenterologist,11:15
+554,"Dr. Rebekah G Gross, MD",Gastroenterologist,14:00
+555,"Dr. Vicenta Caceres, MD",Gastroenterologist,13:30
+556,"Dr. Daniel L. Motola, MD, PhD",Gastroenterologist,14:00
+557,"Dr. Daniel L. Motola, MD, PhD",Gastroenterologist,14:00
+558,"Dr. Michael Dann, MD",Gastroenterologist,15:15
+559,"Dr. Michael Dann, MD",Gastroenterologist,10:30
+560,"Dr. Deborah Yvette L. Chua, MD",Gastroenterologist,17:15
+561,"Dr. Michael Glick, MD",Gastroenterologist,13:30
+562,"Dr. Po Cheng Chu, MD",Gastroenterologist,15:00
+563,"Dr. Inessa Khaykis, MD",Gastroenterologist,11:30
+564,"Dr. Hon-Ming Eng, MD",Gastroenterologist,16:45
+565,"Dr. Jonathan Cohen, MD",Gastroenterologist,16:30
+566,"Dr. Nancy Lau, MD",Gastroenterologist,16:00
+567,"Dr. Andrea Culliford, MD",Gastroenterologist,14:15
+568,"Dr. Arlene Garcia, MD",Gastroenterologist,10:00
+569,"Dr. Deborah Yvette L. Chua, MD",Gastroenterologist,13:00
+570,"Dr. Max Pitman, MD",Gastroenterologist,09:30
+571,"Dr. Neal Joseph, MD",Gastroenterologist,13:00
+572,"Dr. Neal Joseph, MD",Gastroenterologist,14:30
+573,"Dr. Peter Baiocco, MD",Gastroenterologist,11:15
+574,"Dr. James Kim, MD",Gastroenterologist,17:45
+575,"Dr. James Kim, MD",Gastroenterologist,17:30
+576,"Dr. Anthony Starpoli, MD",Gastroenterologist,15:30
+577,"Dr. Veronika Dubrovskaya, MD",Gastroenterologist,15:15
+578,"Dr. James Kim, MD",Gastroenterologist,16:00
+579,"Dr. James Kim, MD",Gastroenterologist,15:00
+580,"Dr. Dov Grant, MD",Gastroenterologist,12:45
+581,"Dr. Lauren Schwartz, MD",Gastroenterologist,12:30
+582,"Dr. Howard Antosofsky, MD",Gastroenterologist,12:15
+583,"Dr. Kati Glockenberg, MD",Gastroenterologist,15:00
+584,"Dr. Michael Blechman, MD",Gastroenterologist,11:00
+585,"Dr. Michael Blechman, MD",Gastroenterologist,14:45
+586,"Dr. Jessica Kimmel, MD",Gastroenterologist,17:15
+587,"Dr. Jessica Kimmel, MD",Gastroenterologist,15:15
+588,"Dr. Steven Rogers, MD",Gastroenterologist,09:15
+589,"Dr. Arnold Rochwarger, MD",Gastroenterologist,11:30
+590,"Dr. Jay Desai, MD",Gastroenterologist,16:15
+591,"Dr. Markos Koutsos, MD",Gastroenterologist,16:45
+592,"Dr. Jay Desai, MD",Gastroenterologist,17:15
+593,"Dr. Kati Glockenberg, MD",Gastroenterologist,17:30
+594,"Dr. Daniel Adler, MD",Gastroenterologist,12:30
+595,"Dr. Robert Weiss, MD",Gastroenterologist,12:15
+596,"Dr. Laura Frado, MD",Gastroenterologist,11:15
+597,"Dr. Ron Palmon, MD",Gastroenterologist,09:30
+598,"Dr. Neville Bamji, MD",Gastroenterologist,17:00
+599,"Dr. Max Pitman, MD",Gastroenterologist,12:45
+600,"Dr. Leon Kavaler, MD",Gastroenterologist,16:30
+601,"Dr. Alexander Brun, MD",Gastroenterologist,16:30
+602,"Dr. Po Cheng Chu, MD",Gastroenterologist,09:30
+603,"Dr. Gina Sam, MD",Gastroenterologist,14:45
+604,"Dr. Jonathan Warman, MD",Gastroenterologist,17:30
+605,"Dr. Markos Koutsos, MD",Gastroenterologist,16:15
+606,"Dr. James Aisenberg, MD",Gastroenterologist,09:00
+607,"Dr. Eric Morgenstern, MD, FACG",Gastroenterologist,13:45
+608,"Dr. Kenneth Miller, MD",Gastroenterologist,12:00
+609,"Dr. Jason Rubinov, MD",Gastroenterologist,17:45
+610,"Dr. Ugonna Iroku, MD",Gastroenterologist,12:45
+611,"Dr. James Palma, MD",Gastroenterologist,13:30
+612,"Dr. Po Cheng Chu, MD",Gastroenterologist,10:00
+613,"Dr. Brian Landzberg, MD",Gastroenterologist,09:45
+614,"Dr. Jason Rubinov, MD",Gastroenterologist,11:15
+615,"Dr. Prem Chattoo, DO",Gastroenterologist,13:15
+616,"Dr. Ugonna Iroku, MD",Gastroenterologist,16:45
+617,"Dr. Jeffrey Crespin, MD",Gastroenterologist,11:00
+618,"Dr. Markos Koutsos, MD",Gastroenterologist,13:45
+619,"Dr. Jason Rubinov, MD",Gastroenterologist,16:45
+620,"Dr. Ira Breite, MD",Gastroenterologist,13:30
+621,"Dr. Andrew Blank, MD",Gastroenterologist,15:15
+622,"Dr. Andrew Blank, MD",Gastroenterologist,10:15
+623,"Dr. Samuel Schwarz, MD",Gastroenterologist,17:45
+624,"Dr. Jonathan Erber, MD",Gastroenterologist,12:15
+625,"Dr. Andrew Blank, MD",Gastroenterologist,11:45
+626,"Dr. Myron D. Goldberg, MD, FACP",Gastroenterologist,14:00
+627,"Dr. James Palma, MD",Gastroenterologist,09:45
+628,"Dr. Michael Ammirati, MD",Gastroenterologist,10:00
+629,"Dr. Bruce Yaffe, MD",Gastroenterologist,14:00
+630,"Dr. Alexander Shapsis, MD",Gastroenterologist,15:45
+631,"Dr. Eric Morgenstern, MD, FACG",Gastroenterologist,17:00
+632,"Dr. Merajur Rahman, MD",Gastroenterologist,14:45
+633,"Dr. Sam Weissman, MD",Gastroenterologist,09:00
+634,"Dr. Anthony Ng, MD",Gastroenterologist,17:15
+635,"Dr. Alexander Brun, MD",Gastroenterologist,15:15
+636,"Dr. Steven Rogers, MD",Gastroenterologist,10:00
+637,"Dr. Todd Linden, MD",Gastroenterologist,17:15
+638,"Dr. Jahnavi Naik, MD",Gastroenterologist,11:15
+639,"Dr. Max Pitman, MD",Gastroenterologist,12:30
+640,"Dr. Charles Friedlander, MD",Gastroenterologist,09:15
+641,"Dr. Prateek Chapalamadugu, MD",Gastroenterologist,15:30
+642,"Dr. Prateek Chapalamadugu, MD",Gastroenterologist,17:00
+643,"Dr. Rene Eng, MD",Gastroenterologist,14:15
+644,"Dr. Kevin Tin, MD",Gastroenterologist,09:45
+645,"Dr. Jessica Kimmel, MD",Gastroenterologist,13:45
+646,"Dr. Michael Glick, MD",Gastroenterologist,17:30
+647,"Dr. Arlene Garcia, MD",Gastroenterologist,13:45
+648,"Dr. Alexander Shapsis, MD",Gastroenterologist,15:00
+649,"Dr. Ugonna Iroku, MD",Gastroenterologist,14:00
+650,"Dr. Timothy Wong, MD",Gastroenterologist,13:30
+651,"Dr. Konstantin Peysin, DO",Gastroenterologist,12:30
+652,"Dr. Konstantin Peysin, DO",Gastroenterologist,13:15
+653,"Dr. Neil Brodsky, MD, FACP, AGAF",Gastroenterologist,12:30
+654,"Dr. Steven Tawil, MD",Gastroenterologist,09:45
+655,"Dr. Yevgenia Pashinsky, MD",Gastroenterologist,13:45
+656,"Dr. Natan Krohn, MD",Gastroenterologist,09:00
+657,"Dr. Lawrence Herman, MD",Gastroenterologist,14:15
+658,"Dr. Igor Grosman, DO",Gastroenterologist,17:00
+659,"Dr. Igor Grosman, DO",Gastroenterologist,09:15
+660,"Dr. Laura Frado, MD",Gastroenterologist,12:15
+661,"Dr. Prateek Chapalamadugu, MD",Gastroenterologist,15:00
+662,"Dr. Prateek Chapalamadugu, MD",Gastroenterologist,12:30
+663,"Dr. Oleg Katcher, MD",Gastroenterologist,12:15
+664,"Dr. Donald Palmadessa, MD",Gastroenterologist,09:45
+665,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,09:00
+666,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,12:30
+667,"Dr. Roman Isaac, MD",Orthopedic Surgeon,13:30
+668,"Dr. Sean Lager, MD",Orthopedic Surgeon,12:15
+669,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,10:00
+670,"Dr. Marco Yeung, MD",Orthopedic Surgeon,11:15
+671,"Dr. Marco Yeung, MD",Orthopedic Surgeon,15:00
+672,"Dr. Marco Yeung, MD",Orthopedic Surgeon,10:15
+673,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,10:30
+674,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,09:45
+675,"Dr. Robert Ziets, MD",Orthopedic Surgeon,15:45
+676,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,10:00
+677,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,13:00
+678,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,16:30
+679,"Dr. Howard Rose, MD",Orthopedic Surgeon,11:45
+680,"Dr. Adam Cohen, MD",Orthopedic Surgeon,17:15
+681,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,11:45
+682,"Dr. Adam Cohen, MD",Orthopedic Surgeon,16:15
+683,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,10:15
+684,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,12:00
+685,"Dr. Ashley Simela, DO",Orthopedic Surgeon,09:15
+686,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,16:00
+687,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,09:00
+688,"Dr. Benjamin Rosenstadt, MD",Orthopedic Surgeon,16:15
+689,"Dr. Howard Rose, MD",Orthopedic Surgeon,13:30
+690,"Dr. Stanley Liebowitz, MD",Orthopedic Surgeon,15:00
+691,"Dr. Michael Seidenstein, MD",Orthopedic Surgeon,17:30
+692,"Dr. Gregory Montalbano, MD",Orthopedic Surgeon,13:30
+693,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,11:15
+694,"Dr. Marco Yeung, MD",Orthopedic Surgeon,10:30
+695,"Dr. Marco Yeung, MD",Orthopedic Surgeon,16:00
+696,"Dr. Robert Ziets, MD",Orthopedic Surgeon,12:45
+697,"Dr. Rami Daya, MD",Oncologist,17:30
+698,"Dr. Abu Ahmed, MD",Oncologist,10:45
+699,"Dr. Abraham Chachoua, MD",Oncologist,14:45
+700,"Dr. Lawrence Leichman, MD",Oncologist,15:30
+701,"Dr. Gaurav Shah, MD",Oncologist,14:00
+702,"Dr. Behzad Doratotaj, MD",Oncologist,13:45
+703,"Dr. Zujun Li, MD",Oncologist,16:45
+704,"Dr. Abu Ahmed, MD",Oncologist,15:15
+705,"Dr. Peter Kozuch, MD",Oncologist,09:30
+706,"Dr. Arthur Radin, MD",Oncologist,13:30
+707,"Dr. Marleen Meyers, MD",Oncologist,14:30
+708,"Dr. Rajeev Balmiki, MD",Oncologist,10:45
+709,"Dr. Daniel Cho, MD",Oncologist,17:15
+710,"Dr. David Goldman, MD",Psychiatrist,15:15
+711,"Dr. Karen Brodman, MD, FACOG",Gynecologist,14:15
+712,"Dr. Joon Song, MD, FACOG, PhD",Gynecologist,09:00
+713,"Dr. Karen Brodman, MD, FACOG",Gynecologist,10:45
+714,"Dr. Joon Song, MD, FACOG, PhD",Gynecologist,11:45
+715,"Dr. Boris Petrikovsky, MD",Gynecologist,16:30
+716,"Dr. Felix Cohen, MD",Gynecologist,12:00
+717,"Dr. Boris Petrikovsky, MD",Gynecologist,14:45
+718,"Dr. Shereen Russell, MD",Gynecologist,16:45
+719,"Dr. Karen Brodman, MD, FACOG",Gynecologist,14:15
+720,"Dr. Lissa Hirsch, MD",Gynecologist,10:30
+721,"Dr. Felix Cohen, MD",Gynecologist,09:45
+722,"Dr. Shereen Russell, MD",Gynecologist,09:30
+723,"Dr. Shereen Russell, MD",Gynecologist,15:45
+724,"Dr. Lissa Hirsch, MD",Gynecologist,11:30
+725,"Dr. Natalya Goltyapina, DO",Gynecologist,13:00
+726,"Dr. Jane Galasso, MD",Gynecologist,12:45
+727,"Dr. Boris Petrikovsky, MD",Gynecologist,10:45
+728,"Dr. Stanislaw Niznikiewicz, MD, FACOG",Gynecologist,13:15
+729,"Dr. Seema Hashmi, MD",Gynecologist,13:15
+730,"Dr. James A. Gohar, MD",Gynecologist,13:15
+731,"Dr. Shawn Yunayev, MD",Gynecologist,13:15
+732,"Dr. Jahnavi Naik, MD",Gastroenterologist,14:15
+733,"Dr. Murray Orbuch, MD",Gastroenterologist,14:45
+734,"Dr. Murray Orbuch, MD",Gastroenterologist,14:30
+735,"Dr. Jahnavi Naik, MD",Gastroenterologist,10:30
+736,"Dr. Murray Orbuch, MD",Gastroenterologist,15:45
+737,"Dr. Murray Orbuch, MD",Gastroenterologist,11:15
+738,"Dr. Jonathan Weinberger, MD",Gastroenterologist,17:45
+739,"Dr. Murray Orbuch, MD",Gastroenterologist,10:15
+740,"Dr. Jonathan Erber, MD",Gastroenterologist,12:00
+741,"Dr. Ewa Koziorynska, MD",Neurologist,15:30
+742,"Dr. Christine Fitzpatrick, MD",Neurologist,10:00
+743,"Dr. Michael Carciente, MD",Neurologist,14:45
+744,"Dr. Cynthia Harden, MD",Neurologist,10:00
+745,"Dr. Cheryl Cottrol, MD",Neurologist,11:15
+746,"Dr. Risa Ravitz, MD",Neurologist,15:45
+747,"Dr. Afshan Khan, MD",Neurologist,14:30
+748,"Dr. Pascal Saremsky, MD",Neurologist,14:15
+749,"Dr. Yoni Dokko, MD",Neurologist,09:30
+750,"Dr. Audrey Halpern, MD",Neurologist,14:30
+751,"Dr. Michael Hutchinson, MD, PhD",Neurologist,16:45
+752,"Dr. Artem Kaplan, MD, PhD",Neurologist,14:15
+753,"Dr. Debra Shabas, MD",Neurologist,13:00
+754,"Dr. Sylvia Mohen, MD",Neurologist,11:30
+755,"Dr. Neil Rosenthal, MD",Neurologist,10:30
+756,"Dr. Artem Kaplan, MD, PhD",Neurologist,17:00
+757,"Dr. Margarita Mikhaylova, DO",Neurologist,14:00
+758,"Dr. Artem Kaplan, MD, PhD",Neurologist,14:00
+759,"Dr. Ewa Koziorynska, MD",Neurologist,14:00
+760,"Dr. Sylvia Mohen, MD",Neurologist,13:45
+761,"Dr. David Snyder, MD",Neurologist,11:30
+762,"Dr. Audrey Halpern, MD",Neurologist,10:15
+763,"Dr. Risa Ravitz, MD",Neurologist,13:15
+764,"Dr. Cindy Jadoo, MD",Neurologist,17:15
+765,"Dr. Debra Shabas, MD",Neurologist,17:30
+766,"Dr. Yoni Dokko, MD",Neurologist,15:45
+767,"Dr. Michael Heublum, MD",Neurologist,09:00
+768,"Dr. Margarita Mikhaylova, DO",Neurologist,10:15
+769,"Dr. Hai Hiep Hoang, MD",Neurologist,11:15
+770,"Dr. Ellen Edgar, MD",Neurologist,10:00
+771,"Dr. Agnieszka Kokoszka, MD",Neurologist,11:00
+772,"Dr. Agnieszka Kokoszka, MD",Neurologist,17:15
+773,"Dr. Samuel Apeatu, MD",Neurologist,09:00
+774,"Dr. Thomas Hoang, MD",Neurologist,10:45
+775,"Dr. Thomas Hoang, MD",Neurologist,12:15
+776,"Dr. Brian R. Apatoff, MD, PhD",Neurologist,09:30
+777,"Dr. Sylvia Mohen, MD",Neurologist,09:45
+778,"Dr. Kishan Patel, MD",Neurologist,12:30
+779,"Dr. Cindy Jadoo, MD",Neurologist,16:00
+780,"Dr. Vesna Micic, MD",Neurologist,10:15
+781,"Dr. Artem Kaplan, MD, PhD",Neurologist,14:30
+782,"Dr. David Rabinovici, MD",Neurologist,12:30
+783,"Dr. Alina Rabinovich, MD",Neurologist,14:00
+784,"Dr. Christine Fitzpatrick, MD",Neurologist,12:45
+785,"Dr. Klara Briskin, MD",Neurologist,17:00
+786,"Dr. Ellen Edgar, MD",Neurologist,14:00
+787,"Dr. Michael Carciente, MD",Neurologist,13:15
+788,"Dr. Margarita Mikhaylova, DO",Neurologist,09:45
+789,"Dr. Margarita Mikhaylova, DO",Neurologist,11:45
+790,"Dr. Kimberly Peters, MD",Neurologist,17:45
+791,"Dr. Kimberly Peters, MD",Neurologist,15:15
+792,"Dr. Sylvia Mohen, MD",Neurologist,15:30
+793,"Dr. Cindy Jadoo, MD",Neurologist,13:00
+794,"Dr. Thomas Hoang, MD",Neurologist,14:30
+795,"Dr. Yvonne Zaharakis, MD",Neurologist,10:30
+796,"Dr. Cynthia Harden, MD",Neurologist,12:45
+797,"Dr. Clair Cascella, MD",Neurologist,17:15
+798,"Dr. Samuel Apeatu, MD",Neurologist,10:15
+799,"Dr. Kishan Patel, MD",Neurologist,11:30
+800,"Dr. Maja Ilic, MD",Neurologist,09:30
+801,"Dr. Henry Hasson, MD",Neurologist,09:30
+802,"Dr. Henry Hasson, MD",Neurologist,12:30
+803,"Dr. David Rabinovici, MD",Neurologist,16:30
+804,"Dr. Joseph Yellin, DO",Neurologist,12:30
+805,"Dr. Vesna Micic, MD",Neurologist,11:30
+806,"Dr. Igor Khelemsky, MD",Neurologist,14:30
+807,"Dr. David Rabinovici, MD",Neurologist,15:45
+808,"Dr. Larissa Lempert, MD",Neurologist,09:15
+809,"Dr. Anna Kogan, MD",Neurologist,13:00
+810,"Dr. Cynthia Harden, MD",Neurologist,15:15
+811,"Dr. Christine Fitzpatrick, MD",Neurologist,10:45
+812,"Dr. Michael Carciente, MD",Neurologist,10:45
+813,"Dr. Maja Ilic, MD",Neurologist,13:15
+814,"Dr. Igor Stiler, MD",Neurologist,17:00
+815,"Dr. Vesna Micic, MD",Neurologist,16:00
+816,"Dr. Suman Reejsinghani, MD",Neurologist,13:00
+817,"Dr. Dominique Cozien, MD",Neurologist,11:45
+818,"Dr. Yelena Ilina, MD",Neurologist,16:45
+819,"Dr. Seniha Inan, MD",Neurologist,17:15
+820,"Dr. Dmitriy Kolesnik, MD",Neurologist,17:00
+821,"Dr. Seniha Inan, MD",Neurologist,10:45
+822,"Dr. Bogdan Negrea, MD",Neurologist,15:45
+823,"Dr. Debra Shabas, MD",Neurologist,11:15
+824,"Dr. Maja Ilic, MD",Neurologist,13:15
+825,"Dr. Wael Kamel, MD",Neurologist,15:45
+826,"Dr. Sergey Zhivotenko, MD",Neurologist,09:30
+827,"Dr. Samuel Apeatu, MD",Neurologist,10:00
+828,"Dr. Pascal Saremsky, MD",Neurologist,13:45
+829,"Dr. Cindy Jadoo, MD",Neurologist,17:30
+830,"Dr. Pascal Saremsky, MD",Neurologist,14:45
+831,"Dr. Yvonne Zaharakis, MD",Neurologist,15:30
+832,"Dr. Alan David, DO",Neurologist,09:00
+833,"Dr. Ravinder Tikoo, MD",Neurologist,12:00
+834,"Dr. Jean Lopez, MD",Neurologist,17:30
+835,"Dr. Omar Ahmed, MD, MBA",Neurologist,16:15
+836,"Dr. Paul Lerner, MD",Neurologist,11:15
+837,"Dr. Marina Neystat, MD",Neurologist,16:00
+838,"Dr. Ravinder Tikoo, MD",Neurologist,15:15
+839,"Dr. Maggie Morr, MD",Neurologist,11:00
+840,"Dr. Michael Hutchinson, MD, PhD",Neurologist,11:00
+841,"Dr. Pascal Saremsky, MD",Neurologist,17:15
+842,"Dr. Ranga Chelva Krishna, MD",Neurologist,16:45
+843,"Dr. Mira Sherer, DO",Neurologist,14:45
+844,"Dr. Mehri Songhorian, MD",Neurologist,13:00
+845,"Dr. Seniha Inan, MD",Neurologist,10:30
+846,"Dr. Pascal Saremsky, MD",Neurologist,17:15
+847,"Dr. Marina Neystat, MD",Neurologist,09:45
+848,"Dr. Clair Cascella, MD",Neurologist,09:00
+849,"Dr. Igor Khelemsky, MD",Neurologist,09:15
+850,"Dr. Omar Ahmed, MD, MBA",Neurologist,16:30
+851,"Dr. Vesna Micic, MD",Neurologist,17:45
+852,"Dr. Kishan Patel, MD",Neurologist,17:45
+853,"Dr. Vesna Micic, MD",Neurologist,13:30
+854,"Dr. Samuel Apeatu, MD",Neurologist,15:45
+855,"Dr. Ashish Kapoor, MD",Neurologist,13:45
+856,"Dr. Eugene Wang, MD",Neurologist,11:15
+857,"Dr. Omar Ahmed, MD, MBA",Neurologist,16:15
+858,"Dr. Kishan Patel, MD",Neurologist,16:15
+859,"Dr. Ellen Edgar, MD",Neurologist,15:15
+860,"Dr. Joseph Yellin, DO",Neurologist,10:00
+861,"Dr. Ayman Ibrahim, DO, MD",Neurologist,14:00
+862,"Dr. Abraham Glasman, MD",Neurologist,09:00
+863,"Dr. Abraham Glasman, MD",Neurologist,15:45
+864,"Dr. Hai Hiep Hoang, MD",Neurologist,11:00
+865,"Dr. Igor Khelemsky, MD",Neurologist,17:15
+866,"Dr. Kishan Patel, MD",Neurologist,11:00
+867,"Dr. David Rabinovici, MD",Neurologist,15:45
+868,"Dr. Ewa Koziorynska, MD",Neurologist,11:30
+869,"Dr. Boris Leybel, MD",Neurologist,09:00
+870,"Dr. Ellen Edgar, MD",Neurologist,11:15
+871,"Dr. Douglas Schottenstein, MD",Neurologist,16:45
+872,"Dr. Gershon Ney, MD",Neurologist,10:30
+873,"Dr. Ian Stein, MD",Neurologist,13:45
+874,"Dr. Ian Stein, MD",Neurologist,16:45
+875,"Dr. Maria Dolgovina, MD",Neurologist,14:15
+876,"Dr. Michael Heublum, MD",Neurologist,15:15
+877,"Dr. Ranga Chelva Krishna, MD",Neurologist,10:45
+878,"Dr. Cheryl Cottrol, MD",Neurologist,14:15
+879,"Dr. Anna Kogan, MD",Neurologist,17:45
+880,"Dr. Maja Ilic, MD",Neurologist,10:00
+881,"Dr. Maggie Morr, MD",Neurologist,17:00
+882,"Dr. Maria Dolgovina, MD",Neurologist,12:30
+883,"Dr. Thomas Hoang, MD",Neurologist,14:15
+884,"Dr. Ranga Chelva Krishna, MD",Neurologist,12:30
+885,"Dr. Peiyun Chu, MD",Neurologist,14:15
+886,"Dr. Peiyun Chu, MD",Neurologist,14:30
+887,"Dr. Yelena Amitina, MD",Neurologist,12:45
+888,"Dr. Maggie Morr, MD",Neurologist,12:30
+889,"Dr. Afshan Khan, MD",Neurologist,10:45
+890,"Dr. Yelena Lindenbaum, MD",Neurologist,15:30
+891,"Dr. Laurence Haber, MD",Neurologist,10:45
+892,"Dr. Yefim Cavalier, DO",Neurologist,12:00
+893,"Dr. Ranga Chelva Krishna, MD",Neurologist,14:00
+894,"Dr. Beth Silverstein, DO",Neurologist,12:00
+895,"Dr. Itzhak Haimovic, MD",Neurologist,09:30
+896,"Dr. Itzhak Haimovic, MD",Neurologist,11:30
+897,"Dr. Samuel Apeatu, MD",Neurologist,12:15
+898,"Dr. Sergey Zhivotenko, MD",Neurologist,16:00
+899,"Dr. Clair Cascella, MD",Neurologist,11:45
+900,"Dr. Kishan Patel, MD",Neurologist,16:45
+901,"Dr. Anna Kogan, MD",Neurologist,16:15
+902,"Dr. Anna Kogan, MD",Neurologist,11:45
+903,"Dr. Vesna Micic, MD",Neurologist,09:45
+904,"Dr. Ellen Edgar, MD",Neurologist,09:15
+905,"Dr. Ranga Chelva Krishna, MD",Neurologist,09:45
+906,"Dr. Ranga Chelva Krishna, MD",Neurologist,16:45
+907,"Dr. Samuel Apeatu, MD",Neurologist,14:15
+908,"Dr. Ashish Kapoor, MD",Neurologist,10:30
+909,"Dr. Kishan Patel, MD",Neurologist,10:30
+910,"Dr. Ellen Edgar, MD",Neurologist,17:15
+911,"Dr. Ravinder Tikoo, MD",Neurologist,10:15
+912,"Dr. Mohammad Padela, MD",Neurologist,10:00
+913,"Dr. Teresella Gondolo, MD",Neurologist,10:15
+914,"Dr. Arun Nangia, MD",Neurologist,16:30
+915,"Dr. Igor Khelemsky, MD",Neurologist,16:00
+916,"Dr. Nalini Prasad, MD",Neurologist,14:15
+917,"Dr. Karen Blitz-Shabbir, DO",Neurologist,15:45
+918,"Dr. Murray Orbuch, MD",Gastroenterologist,13:15
+919,"Dr. Jahnavi Naik, MD",Gastroenterologist,10:00
+920,"Dr. Murray Orbuch, MD",Gastroenterologist,16:30
+921,"Dr. Jonathan Weinberger, MD",Gastroenterologist,14:00
+922,"Dr. Jonathan Erber, MD",Gastroenterologist,10:00
+923,"Dr. Murray Orbuch, MD",Gastroenterologist,14:45
+924,"Dr. Elena Bruck, MD",Psychiatrist,12:15
+925,"Dr. Jacob Leivent, MD",Psychiatrist,14:15
+926,"Dr. Susan Fiester, MD",Psychiatrist,15:45
+927,"Dr. Gordon Jay Strauss, MD",Psychiatrist,11:00
+928,"Dr. Gordon Jay Strauss, MD",Psychiatrist,11:30
+929,"Dr. Gordon Jay Strauss, MD",Psychiatrist,14:15
+930,"Dr. Sudhir Gadh, MD",Psychiatrist,13:45
+931,"Dr. Roxanna Namavar, DO",Psychiatrist,17:30
+932,"Dr. Norman Lee, MD",Psychiatrist,09:00
+933,"Dr. Norman Lee, MD",Psychiatrist,14:30
+934,"Dr. Zorica Filipovic-Jewell, MD",Psychiatrist,10:15
+935,"Dr. Howard Welsh, MD",Psychiatrist,09:30
+936,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:00
+937,"Dr. Ziv Cohen, MD",Psychiatrist,13:45
+938,"Dr. Edward Fruitman, MD",Psychiatrist,14:30
+939,"Dr. Elena Bruck, MD",Psychiatrist,13:15
+940,"Dr. Ziv Cohen, MD",Psychiatrist,14:45
+941,"Dr. Yihou (Mike) Zhou, MD",Psychiatrist,15:00
+942,"Dr. Irina Kogan, MD",Psychiatrist,09:15
+943,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,12:30
+944,"Dr. Daniel Rosen, MD",Psychiatrist,17:00
+945,"Dr. Michael Tanzer, MD",Psychiatrist,13:15
+946,"Dr. Abby Altman, MD",Psychiatrist,09:45
+947,"Dr. Robert Steinmuller, MD",Psychiatrist,10:45
+948,"Dr. Vladan Novakovic, MD",Psychiatrist,11:45
+949,"Dr. Allison Lee, MD",Psychiatrist,10:45
+950,"Dr. Richard Brent, MD",Psychiatrist,12:15
+951,"Dr. Pavel Filimonov, MD",Psychiatrist,09:15
+952,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,16:45
+953,"Dr. Barry Richman, MD",Psychiatrist,14:30
+954,"Dr. Barry Richman, MD",Psychiatrist,13:15
+955,"Dr. Billy Jones, MD, DFAPA",Psychiatrist,12:15
+956,"Dr. Jonathan Erber, MD",Gastroenterologist,12:30
+957,"Dr. Cheryl Cottrol, MD",Neurologist,09:15
+958,"Dr. George Wing, MD",Psychiatrist,14:15
+959,"Dr. Anthony Starpoli, MD",Gastroenterologist,15:00
+960,"Dr. Michael Blechman, MD",Gastroenterologist,17:45
+961,"Dr. Michael Blechman, MD",Gastroenterologist,14:45
+962,"Dr. James Palma, MD",Gastroenterologist,15:30
+963,"Dr. Mark Gray, MD, FACOG",Gynecologist,11:30
+964,"Dr. Paula Brignoni-Blume, MD",Gynecologist,13:15
+965,"Dr. Paula Brignoni-Blume, MD",Gynecologist,17:30
+966,"Dr. Mark Gray, MD, FACOG",Gynecologist,13:45
+967,"Dr. Temitope Awosogba, MD",Gynecologist,13:00
+968,"Dr. Paula Brignoni-Blume, MD",Gynecologist,14:15
+969,"Dr. Arthur Goldberg, MD",Oncologist,13:30
+970,"Dr. William Grace, MD",Oncologist,11:15
+971,"Dr. Niculae Ciobanu, MD, FACP",Oncologist,13:45
+972,"Dr. Keith Brunckhorst, MD",Oncologist,16:45
+973,"Dr. Bartosz Walczyszyn, MD",Oncologist,10:30
+974,"Dr. Li-Teh Wu, MD",Oncologist,13:00
+975,"Dr. Engracio Cortes, MD, FACP",Oncologist,10:15
+976,"Dr. Steven Gruenstein, MD",Oncologist,17:15
+977,"Dr. Vladimir Gotlieb, MD",Oncologist,15:30
+978,"Dr. Amit Patel, MD",Oncologist,17:45
+979,"Dr. Shahzaib Nabi, MD",Oncologist,10:30
+980,"Dr. Avi Retter, MD",Oncologist,13:00
+981,"Dr. Muhammad Kafeel, MD",Oncologist,10:45
+982,"Dr. Muhammad Kafeel, MD",Oncologist,11:30
+983,"Dr. Tarek Elrafei, DO",Oncologist,17:00
+984,"Dr. Giuseppe Condemi, MD",Oncologist,09:45
+985,"Dr. Nakul Singhal, MD",Oncologist,13:30
+986,"Dr. Nakul Singhal, MD",Oncologist,14:45
+987,"Dr. Shahzaib Nabi, MD",Oncologist,13:15
+988,"Dr. Triantafillos John Fillos, MD",Oncologist,14:00
+989,"Dr. Triantafillos John Fillos, MD",Oncologist,14:00
+990,"Dr. Fabio Volterra, MD",Oncologist,13:00
+991,"Dr. Nakul Singhal, MD",Oncologist,11:45
+992,"Dr. Richard Rosenbluth, MD",Oncologist,09:15
+993,"Dr. Muhammad Kafeel, MD",Oncologist,09:15
+994,"Dr. Raul Parra, MD",Oncologist,17:00
+995,"Dr. Triantafillos John Fillos, MD",Oncologist,09:00
+996,"Dr. Helen Shum, MD",Oncologist,17:15
+997,"Dr. Joachim Fuks, MD",Oncologist,14:45
+998,"Dr. Muhammad Kafeel, MD",Oncologist,12:00
+999,"Dr. Charna Klein, MD",Oncologist,09:15
+1000,"Dr. Helen Shum, MD",Oncologist,16:00
+1001,"Dr. Raul Parra, MD",Oncologist,10:00
+1002,"Dr. Avi I. Einzig, MD",Oncologist,16:00
+1003,"Dr. Helen Shum, MD",Oncologist,14:00
+1004,"Dr. Peter Kozuch, MD",Oncologist,09:00
+1005,"Dr. Alec Goldenberg, MD",Oncologist,14:00
+1006,"Dr. Theresa Shao, MD",Oncologist,10:15
+1007,"Dr. Martin Brower, MD",Oncologist,16:15
+1008,"Dr. Jean Lee, MD",Oncologist,12:45
+1009,"Dr. Shrujal Baxi, MD",Oncologist,12:15
+1010,"Dr. Anna Pavlick, DO",Oncologist,12:00
+1011,"Dr. David Wise, MD",Oncologist,14:00
+1012,"Dr. Elena Katz, MD",Oncologist,10:00
+1013,"Dr. Daniel Becker, MD",Oncologist,12:15
+1014,"Dr. Jeffrey Weber, MD",Oncologist,16:45
+1015,"Dr. Marleen Meyers, MD",Oncologist,15:00
+1016,"Dr. Martin Brower, MD",Oncologist,16:45
+1017,"Dr. Coral Omene, MD",Oncologist,11:45
+1018,"Dr. Anna Pavlick, DO",Oncologist,14:00
+1019,"Dr. Zujun Li, MD",Oncologist,14:30
+1020,"Dr. Daniel Cho, MD",Oncologist,16:45
+1021,"Dr. Russell Levine, MD",Ophthalmologist,12:15
+1022,"Dr. Samuel Wong, MD",Ophthalmologist,10:00
+1023,"Dr. Priti Batta, MD",Ophthalmologist,10:15
+1024,"Dr. Dalia Nagel, MD",Ophthalmologist,10:30
+1025,"Dr. Allie Nadelson, MD",Ophthalmologist,11:30
+1026,"Dr. Leeber Cohen, MD",Ophthalmologist,09:45
+1027,"Dr. Christopher Coad, MD, FACS",Ophthalmologist,17:30
+1028,"Dr. Michel Moulin, MD",Ophthalmologist,09:00
+1029,"Dr. Lawrence Pape, MD",Ophthalmologist,17:45
+1030,"Dr. Angie Wen, MD",Ophthalmologist,17:00
+1031,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,13:30
+1032,"Dr. Dalia Nagel, MD",Ophthalmologist,12:15
+1033,"Dr. Anthony Curreri, MD",Ophthalmologist,11:15
+1034,"Dr. Debra Guthrie, MD",Ophthalmologist,11:30
+1035,"Dr. Relly Chern, MD",Ophthalmologist,17:45
+1036,"Dr. Robert Auerbach, MD",Ophthalmologist,11:15
+1037,"Dr. Elena Geller, MD",Ophthalmologist,12:15
+1038,"Dr. Marc Rubinstein, MD",Ophthalmologist,13:00
+1039,"Dr. Sandra Belmont, MD",Ophthalmologist,16:00
+1040,"Dr. Marc Rubinstein, MD",Ophthalmologist,17:30
+1041,"Dr. Sandra Belmont, MD",Ophthalmologist,15:00
+1042,"Dr. Elena Geller, MD",Ophthalmologist,10:30
+1043,"Dr. Elena Geller, MD",Ophthalmologist,13:00
+1044,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,10:30
+1045,"Dr. Allie Nadelson, MD",Ophthalmologist,16:15
+1046,"Dr. Scott Weissman, MD",Ophthalmologist,10:45
+1047,"Dr. Ari Weitzner, MD",Ophthalmologist,11:00
+1048,"Dr. H. Jay Wisnicki, MD",Ophthalmologist,11:45
+1049,"Dr. Jonathan Ellant, MD",Ophthalmologist,17:30
+1050,"Dr. Michael Newton, MD",Ophthalmologist,16:45
+1051,"Dr. Robert Ritch, MD",Ophthalmologist,15:15
+1052,"Dr. Hindola Konrad, MD",Ophthalmologist,17:15
+1053,"Dr. Robert Friedman, MD",Ophthalmologist,16:15
+1054,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,09:30
+1055,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,10:15
+1056,"Dr. Ravi Parikh, MD",Ophthalmologist,16:45
+1057,"Dr. Leonard Bley, MD",Ophthalmologist,12:45
+1058,"Dr. Sajid Malik, MD, FACS, FACP",Ophthalmologist,17:30
+1059,"Dr. Dalia Nagel, MD",Ophthalmologist,15:00
+1060,"Dr. Gregory Pamel, MD",Ophthalmologist,12:45
+1061,"Dr. Angie Wen, MD",Ophthalmologist,14:15
+1062,"Dr. Jacqueline W. Muller, MD",Ophthalmologist,16:45
+1063,"Dr. Warren Appleman, MD",Ophthalmologist,11:45
+1064,"Dr. Benjamin Whigham, MD",Ophthalmologist,16:30
+1065,"Dr. Eric Dessner, MD",Ophthalmologist,13:45
+1066,"Dr. Maria Basile, MD",Ophthalmologist,14:00
+1067,"Dr. Maria Basile, MD",Ophthalmologist,17:00
+1068,"Dr. Joseph Sturm, MD",Ophthalmologist,09:00
+1069,"Dr. Maria Basile, MD",Ophthalmologist,13:30
+1070,"Dr. Maria Basile, MD",Ophthalmologist,10:15
+1071,"Dr. Edward Rubinchik, MD",Ophthalmologist,17:00
+1072,"Dr. John Mitchell, MD",Ophthalmologist,11:30
+1073,"Dr. Samuel Wong, MD",Ophthalmologist,17:00
+1074,"Dr. Douglas Friedrich, MD",Ophthalmologist,14:00
+1075,"Dr. Douglas Friedrich, MD",Ophthalmologist,13:00
+1076,"Dr. Emily Moriarty, MD",Ophthalmologist,15:30
+1077,"Dr. Howard Kornstein, MD",Ophthalmologist,09:15
+1078,"Dr. Richard Scott Russell, MD",Ophthalmologist,15:30
+1079,"Dr. Adebukola Adebayo, MD",Ophthalmologist,17:15
+1080,"Dr. Adam Schneiderman, MD",Ophthalmologist,13:00
+1081,"Dr. Izak Herschitz, MD",Ophthalmologist,13:30
+1082,"Dr. Marcia Tapper-Rosenberg, MD",Ophthalmologist,10:45
+1083,"Dr. Jessica Fleishman, MD",Ophthalmologist,10:00
+1084,"Dr. Beatrice Whitaker, MD",Ophthalmologist,09:15
+1085,"Dr. Millie Fell, MD, FACS",Ophthalmologist,12:45
+1086,"Dr. Neha Shaik, MD",Ophthalmologist,17:45
+1087,"Dr. Sajid Malik, MD, FACS, FACP",Ophthalmologist,14:00
+1088,"Dr. Alexander Rabinovich, MD",Ophthalmologist,16:45
+1089,"Dr. Akhilesh Singh, MD",Ophthalmologist,16:15
+1090,"Dr. Joseph Sturm, MD",Ophthalmologist,09:30
+1091,"Dr. John Pilavas, MD",Ophthalmologist,16:00
+1092,"Dr. John Pilavas, MD",Ophthalmologist,10:00
+1093,"Dr. Mark Avinoam Bitton, MD",Ophthalmologist,14:45
+1094,"Dr. Elias Aliprandis, MD",Ophthalmologist,17:15
+1095,"Dr. Izak Herschitz, MD",Ophthalmologist,14:00
+1096,"Dr. Samuel Miller, MD",Ophthalmologist,12:00
+1097,"Dr. Kim Le, MD",Ophthalmologist,12:45
+1098,"Dr. Julius Shulman, MD",Ophthalmologist,14:45
+1099,"Dr. Daniel Khodadadian, MD",Ophthalmologist,10:45
+1100,"Dr. Samuel Miller, MD",Ophthalmologist,15:15
+1101,"Dr. Edward Rubinchik, MD",Ophthalmologist,12:00
+1102,"Dr. Anita Gupta, MD",Ophthalmologist,12:45
+1103,"Dr. Earl Sandor, MD",Ophthalmologist,10:00
+1104,"Dr. Brian Herschorn, MD",Ophthalmologist,11:45
+1105,"Dr. Erin Walsh, MD",Ophthalmologist,09:00
+1106,"Dr. Stephen Kronenberg, MD",Ophthalmologist,10:45
+1107,"Dr. Leonard Bley, MD",Ophthalmologist,15:00
+1108,"Dr. Daniel Klapper, MD",Ophthalmologist,13:15
+1109,"Dr. Kaushal Kulkarni, MD",Ophthalmologist,12:30
+1110,"Dr. Allie Nadelson, MD",Ophthalmologist,15:30
+1111,"Dr. Leonard Bley, MD",Ophthalmologist,09:45
+1112,"Dr. Tak Yee Tania Tai, MD",Ophthalmologist,17:00
+1113,"Dr. Douglas Buxton, MD",Ophthalmologist,15:45
+1114,"Dr. Kichiemon Asoma, MD",Ophthalmologist,10:45
+1115,"Dr. Ghulam Dastgir, MD",Ophthalmologist,12:30
+1116,"Dr. Anita Gupta, MD",Ophthalmologist,12:30
+1117,"Dr. Michael Ahdoot, MD",Ophthalmologist,15:15
+1118,"Dr. Izak Herschitz, MD",Ophthalmologist,14:30
+1119,"Dr. Erin Walsh, MD",Ophthalmologist,16:00
+1120,"Dr. Ghulam Dastgir, MD",Ophthalmologist,17:00
+1121,"Dr. A (Abraham) David Flug, MD",Ophthalmologist,11:45
+1122,"Dr. Nicholas Nissirios, MD",Ophthalmologist,12:45
+1123,"Dr. Matthew Nobe, MD",Ophthalmologist,15:30
+1124,"Dr. Robert Auerbach, MD",Ophthalmologist,11:00
+1125,"Dr. Naomi Hayashi, MD",Ophthalmologist,09:45
+1126,"Dr. Mitchell Vogel, MD, FACS",Ophthalmologist,13:00
+1127,"Dr. Russell Levine, MD",Ophthalmologist,16:30
+1128,"Dr. Leeber Cohen, MD",Ophthalmologist,13:45
+1129,"Dr. Dalia Nagel, MD",Ophthalmologist,12:30
+1130,"Dr. Samuel Wong, MD",Ophthalmologist,10:15
+1131,"Dr. Christopher Coad, MD, FACS",Ophthalmologist,09:00
+1132,"Dr. Robert Friedman, MD",Ophthalmologist,11:45
+1133,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,17:30
+1134,"Dr. Lawrence Pape, MD",Ophthalmologist,15:30
+1135,"Dr. Michel Moulin, MD",Ophthalmologist,12:00
+1136,"Dr. Anthony Curreri, MD",Ophthalmologist,11:45
+1137,"Dr. Dalia Nagel, MD",Ophthalmologist,16:30
+1138,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,13:15
+1139,"Dr. Relly Chern, MD",Ophthalmologist,15:30
+1140,"Dr. Jonathan Ellant, MD",Ophthalmologist,11:45
+1141,"Dr. Scott Weissman, MD",Ophthalmologist,13:45
+1142,"Dr. Robert Auerbach, MD",Ophthalmologist,14:30
+1143,"Dr. Sandra Belmont, MD",Ophthalmologist,14:00
+1144,"Dr. Albert Joseph Rudick, MD",Ophthalmologist,13:00
+1145,"Dr. Hindola Konrad, MD",Ophthalmologist,10:45
+1146,"Dr. Yuna Rapoport, MD, MPH",Ophthalmologist,09:15
+1147,"Dr. Robert Friedman, MD",Ophthalmologist,17:00
+1148,"Dr. Leonard Bley, MD",Ophthalmologist,17:15
+1149,"Dr. Sajid Malik, MD, FACS, FACP",Ophthalmologist,09:30
+1150,"Dr. Michael Newton, MD",Ophthalmologist,12:45
+1151,"Dr. Jacqueline W. Muller, MD",Ophthalmologist,14:15
+1152,"Dr. Eric Dessner, MD",Ophthalmologist,13:45
+1153,"Dr. Edward Rubinchik, MD",Ophthalmologist,15:00
+1154,"Dr. Joseph Sturm, MD",Ophthalmologist,10:45
+1155,"Dr. Warren Appleman, MD",Ophthalmologist,16:15
+1156,"Dr. Dalia Nagel, MD",Ophthalmologist,16:15
+1157,"Dr. Maria Basile, MD",Ophthalmologist,13:15
+1158,"Dr. Maria Basile, MD",Ophthalmologist,13:00
+1159,"Dr. Samuel Wong, MD",Ophthalmologist,10:00
+1160,"Dr. Maria Basile, MD",Ophthalmologist,14:45
+1161,"Dr. Maria Basile, MD",Ophthalmologist,09:45
+1162,"Dr. Emily Moriarty, MD",Ophthalmologist,09:30
+1163,"Dr. Jessica Fleishman, MD",Ophthalmologist,09:00
+1164,"Dr. Howard Kornstein, MD",Ophthalmologist,10:30
+1165,"Dr. Beatrice Whitaker, MD",Ophthalmologist,15:30
+1166,"Dr. Adebukola Adebayo, MD",Ophthalmologist,12:45
+1167,"Dr. Marcia Tapper-Rosenberg, MD",Ophthalmologist,09:00
+1168,"Dr. Joseph Sturm, MD",Ophthalmologist,11:30
+1169,"Dr. Izak Herschitz, MD",Ophthalmologist,11:45
+1170,"Dr. Julius Shulman, MD",Ophthalmologist,10:30
+1171,"Dr. Daniel Khodadadian, MD",Ophthalmologist,17:30
+1172,"Dr. Kim Le, MD",Ophthalmologist,14:45
+1173,"Dr. Mark Avinoam Bitton, MD",Ophthalmologist,13:00
+1174,"Dr. Izak Herschitz, MD",Ophthalmologist,16:45
+1175,"Dr. Richard Scott Russell, MD",Ophthalmologist,12:15
+1176,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,15:15
+1177,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,12:30
+1178,"Dr. Roman Isaac, MD",Orthopedic Surgeon,09:30
+1179,"Dr. Sean Lager, MD",Orthopedic Surgeon,11:45
+1180,"Dr. Andrew Farber, DO",Orthopedic Surgeon,12:00
+1181,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,16:30
+1182,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,17:30
+1183,"Dr. Benjamin Bedford, MD",Orthopedic Surgeon,11:00
+1184,"Dr. Steven Glickel, MD",Orthopedic Surgeon,10:30
+1185,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,14:30
+1186,"Dr. Michael Gerling, MD",Orthopedic Surgeon,12:30
+1187,"Dr. Steven Sheskier, MD",Orthopedic Surgeon,14:30
+1188,"Dr. Mark Mohrmann, MD",Orthopedic Surgeon,11:15
+1189,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,16:00
+1190,"Dr. Marco Yeung, MD",Orthopedic Surgeon,10:15
+1191,"Dr. Marco Yeung, MD",Orthopedic Surgeon,16:45
+1192,"Dr. Nicholas Wessling, MD",Orthopedic Surgeon,12:30
+1193,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,10:30
+1194,"Dr. Marco Yeung, MD",Orthopedic Surgeon,12:15
+1195,"Dr. Marco Yeung, MD",Orthopedic Surgeon,11:30
+1196,"Dr. Nicholas Wessling, MD",Orthopedic Surgeon,17:00
+1197,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,09:45
+1198,"Dr. Benjamin Bedford, MD",Orthopedic Surgeon,09:30
+1199,"Dr. Salil Gupta, MD",Orthopedic Surgeon,15:45
+1200,"Dr. Matthew Mendez-Zfass, MD",Orthopedic Surgeon,12:30
+1201,"Dr. Howard Rose, MD",Orthopedic Surgeon,16:15
+1202,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,12:15
+1203,"Dr. Joseph Pyun, MD",Orthopedic Surgeon,16:45
+1204,"Dr. George Ackerman, MD",Orthopedic Surgeon,14:45
+1205,"Dr. Justin Tsai, MD",Orthopedic Surgeon,09:15
+1206,"Dr. Adam Cohen, MD",Orthopedic Surgeon,11:00
+1207,"Dr. Grigoriy Arutyunyan, MD",Orthopedic Surgeon,15:30
+1208,"Dr. Grigoriy Arutyunyan, MD",Orthopedic Surgeon,15:45
+1209,"Dr. Andrew Feldman, MD",Orthopedic Surgeon,09:15
+1210,"Dr. Andrew Turtel, MD",Orthopedic Surgeon,10:30
+1211,"Dr. Adam Cohen, MD",Orthopedic Surgeon,11:30
+1212,"Dr. Steven Glickel, MD",Orthopedic Surgeon,14:15
+1213,"Dr. Paul Cagle, MD",Orthopedic Surgeon,13:45
+1214,"Dr. Michael Bronson, MD, FACS",Orthopedic Surgeon,10:00
+1215,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,10:00
+1216,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,13:45
+1217,"Dr. Ashley Simela, DO",Orthopedic Surgeon,11:45
+1218,"Dr. Gregory Galano, MD",Orthopedic Surgeon,11:00
+1219,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,10:45
+1220,"Dr. Brandon Erickson, MD",Orthopedic Surgeon,15:00
+1221,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,09:00
+1222,"Dr. Nicholas Wessling, MD",Orthopedic Surgeon,15:45
+1223,"Dr. Armin Tehrany, MD",Orthopedic Surgeon,16:30
+1224,"Dr. Daniel Seigerman, MD",Orthopedic Surgeon,17:00
+1225,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,16:30
+1226,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,09:30
+1227,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,10:00
+1228,"Dr. Mark Mohrmann, MD",Orthopedic Surgeon,10:45
+1229,"Dr. Rupesh Tarwala, MD",Orthopedic Surgeon,15:45
+1230,"Dr. Rupesh Tarwala, MD",Orthopedic Surgeon,16:15
+1231,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,17:30
+1232,"Dr. Brandon Erickson, MD",Orthopedic Surgeon,10:15
+1233,"Dr. Donald Rose, MD",Orthopedic Surgeon,09:45
+1234,"Dr. Howard Rose, MD",Orthopedic Surgeon,12:00
+1235,"Dr. Alexis Colvin, MD",Orthopedic Surgeon,11:45
+1236,"Dr. Paul M. Brisson, MD",Orthopedic Surgeon,16:15
+1237,"Dr. Bradford Parsons, MD",Orthopedic Surgeon,10:30
+1238,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,11:30
+1239,"Dr. Douglas Unis, MD",Orthopedic Surgeon,15:15
+1240,"Dr. Aruna Seneviratne, MD",Orthopedic Surgeon,16:00
+1241,"Dr. Sabrina Strickland, MD",Orthopedic Surgeon,10:30
+1242,"Dr. Neil S. Roth, MD",Orthopedic Surgeon,12:30
+1243,"Dr. Benjamin Rosenstadt, MD",Orthopedic Surgeon,14:15
+1244,"Dr. Stanley Liebowitz, MD",Orthopedic Surgeon,17:45
+1245,"Dr. James Gladstone, MD",Orthopedic Surgeon,09:45
+1246,"Dr. Neil S. Roth, MD",Orthopedic Surgeon,17:15
+1247,"Dr. Craig Capeci, MD",Orthopedic Surgeon,14:15
+1248,"Dr. Edward Adler, MD",Orthopedic Surgeon,10:30
+1249,"Dr. Steven Weinfeld, MD",Orthopedic Surgeon,11:30
+1250,"Dr. Wesley Bronson, MD",Orthopedic Surgeon,10:15
+1251,"Dr. Daniel Seigerman, MD",Orthopedic Surgeon,17:45
+1252,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,10:15
+1253,"Dr. Samuel Cho, MD",Orthopedic Surgeon,16:45
+1254,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,10:15
+1255,"Dr. Thomas Youm, MD",Orthopedic Surgeon,10:45
+1256,"Dr. Jeremy Podolnick, MD",Orthopedic Surgeon,14:15
+1257,"Dr. Jaehon Kim, MD",Orthopedic Surgeon,10:30
+1258,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,16:00
+1259,"Dr. Michael Hausman, MD",Orthopedic Surgeon,13:00
+1260,"Dr. Leesa Galatz, MD",Orthopedic Surgeon,14:15
+1261,"Dr. Steven Sheskier, MD",Orthopedic Surgeon,17:45
+1262,"Dr. Sunil Kukreja, MD",Orthopedic Surgeon,13:00
+1263,"Dr. Darwin Chen, MD",Orthopedic Surgeon,17:15
+1264,"Dr. Leon E. Popovitz, MD, FAAOS",Orthopedic Surgeon,09:30
+1265,"Dr. Michael Neuwirth, MD",Orthopedic Surgeon,17:00
+1266,"Dr. Alexis Colvin, MD",Orthopedic Surgeon,09:45
+1267,"Dr. Rupesh Tarwala, MD",Orthopedic Surgeon,11:45
+1268,"Dr. Jaehon Kim, MD",Orthopedic Surgeon,17:15
+1269,"Dr. Michael Seidenstein, MD",Orthopedic Surgeon,09:30
+1270,"Dr. Matthew Mendez-Zfass, MD",Orthopedic Surgeon,15:30
+1271,"Dr. Gregory Montalbano, MD",Orthopedic Surgeon,12:30
+1272,"Dr. Michael Seidenstein, MD",Orthopedic Surgeon,16:30
+1273,"Dr. Leesa Galatz, MD",Orthopedic Surgeon,11:15
+1274,"Dr. Eli Bryk, MD",Orthopedic Surgeon,13:15
+1275,"Dr. Nicholas Wessling, MD",Orthopedic Surgeon,12:00
+1276,"Dr. Matthew Mendez-Zfass, MD",Orthopedic Surgeon,16:45
+1277,"Dr. Joseph Weinstein, DO",Orthopedic Surgeon,16:30
+1278,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,17:00
+1279,"Dr. Wesley Bronson, MD",Orthopedic Surgeon,15:45
+1280,"Dr. Craig Capeci, MD",Orthopedic Surgeon,09:00
+1281,"Dr. Michael Gerling, MD",Orthopedic Surgeon,11:00
+1282,"Dr. Marco Yeung, MD",Orthopedic Surgeon,13:45
+1283,"Dr. Marco Yeung, MD",Orthopedic Surgeon,09:45
+1284,"Dr. Aruna Seneviratne, MD",Orthopedic Surgeon,14:30
+1285,"Dr. Michael Hausman, MD",Orthopedic Surgeon,17:15
+1286,"Dr. Gregory Galano, MD",Orthopedic Surgeon,10:30
+1287,"Dr. Benjamin Rosenstadt, MD",Orthopedic Surgeon,17:00
+1288,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,16:30
+1289,"Dr. Ahmad Badri, DO",Orthopedic Surgeon,16:00
+1290,"Dr. Benjamin Uh, MD",Orthopedic Surgeon,16:00
+1291,"Dr. Praveen Kadimcherla, MD",Orthopedic Surgeon,14:30
+1292,"Dr. Joseph Pyun, MD",Orthopedic Surgeon,15:45
+1293,"Dr. Andrew Turtel, MD",Orthopedic Surgeon,17:30
+1294,"Dr. Deepan Patel, MD",Orthopedic Surgeon,14:15
+1295,"Dr. Deepan Patel, MD",Orthopedic Surgeon,09:45
+1296,"Dr. William Lackey, MD",Orthopedic Surgeon,16:15
+1297,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,17:15
+1298,"Dr. Roman Isaac, MD",Orthopedic Surgeon,10:00
+1299,"Dr. Jaspreet S. Sekhon, MD, FAAOS",Orthopedic Surgeon,14:45
+1300,"Dr. William D Long, MD",Orthopedic Surgeon,14:45
+1301,"Dr. Joseph Pyun, MD",Orthopedic Surgeon,14:30
+1302,"Dr. Joseph Bellapianta, MD, FAAOS",Orthopedic Surgeon,16:30
+1303,"Dr. Steven Sheskier, MD",Orthopedic Surgeon,13:30
+1304,"Dr. Kenneth Alleyne, MD",Orthopedic Surgeon,10:15
+1305,"Dr. Eric Grossman, MD",Orthopedic Surgeon,11:45
+1306,"Dr. Matthew Wert, MD",Orthopedic Surgeon,10:30
+1307,"Dr. David A. Porter, MD",Orthopedic Surgeon,14:45
+1308,"Dr. Brian Cole, MD, FAAOS",Orthopedic Surgeon,17:00
+1309,"Dr. Douglas Slaughter, MD",Orthopedic Surgeon,16:30
+1310,"Dr. Nabil Farakh, DO, MD",Orthopedic Surgeon,17:15
+1311,"Dr. Charles Pearlman, MD",Orthopedic Surgeon,12:15
+1312,"Dr. Justin Tsai, MD",Orthopedic Surgeon,11:00
+1313,"Dr. Bryan Conti, MD",Orthopedic Surgeon,15:45
+1314,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,12:00
+1315,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,13:45
+1316,"Dr. Jason Oh, MD",Orthopedic Surgeon,15:00
+1317,"Dr. Sylvia Hesse, MD",Orthopedic Surgeon,16:45
+1318,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,17:45
+1319,"Dr. Deepan Patel, MD",Orthopedic Surgeon,13:15
+1320,"Dr. Eric Grossman, MD",Orthopedic Surgeon,15:30
+1321,"Dr. Jason Oh, MD",Orthopedic Surgeon,12:30
+1322,"Dr. Howard Rose, MD",Orthopedic Surgeon,14:30
+1323,"Dr. Carlos Castro, MD",Orthopedic Surgeon,09:30
+1324,"Dr. Adam Becker, MD",Orthopedic Surgeon,11:15
+1325,"Dr. Gregory Galano, MD",Orthopedic Surgeon,12:15
+1326,"Dr. Karen Schneider, MD",Orthopedic Surgeon,15:30
+1327,"Dr. Salil Gupta, MD",Orthopedic Surgeon,11:30
+1328,"Dr. Ettore Vulcano, MD",Orthopedic Surgeon,10:00
+1329,"Dr. Ettore Vulcano, MD",Orthopedic Surgeon,09:00
+1330,"Dr. Rocco Bassora, MD",Orthopedic Surgeon,09:45
+1331,"Dr. Joseph Bellapianta, MD, FAAOS",Orthopedic Surgeon,14:30
+1332,"Dr. Gregory Montalbano, MD",Orthopedic Surgeon,13:45
+1333,"Dr. Ari Seidenstein, MD",Orthopedic Surgeon,12:15
+1334,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,14:15
+1335,"Dr. Michael Pizzillo, MD",Orthopedic Surgeon,16:30
+1336,"Dr. Salil Gupta, MD",Orthopedic Surgeon,15:15
+1337,"Dr. Jeffrey Dermksian, MD",Orthopedic Surgeon,17:15
+1338,"Dr. Armin Tehrany, MD",Orthopedic Surgeon,13:15
+1339,"Dr. Edward Yang, MD",Orthopedic Surgeon,14:30
+1340,"Dr. Sean Lager, MD",Orthopedic Surgeon,12:30
+1341,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,16:45
+1342,"Dr. Benjamin Uh, MD",Orthopedic Surgeon,15:45
+1343,"Dr. Jenny Shih, MD",Pediatrician,16:30
+1344,"Dr. Carolyn Chang, MD",Pediatrician,17:00
+1345,"Dr. Eda Chao, MD",Pediatrician,13:45
+1346,"Dr. Zvi Ben-Zvi, MD",Pediatrician,15:30
+1347,"Dr. Mei Wong, DO",Pediatrician,16:00
+1348,"Dr. Loretta Au, MD",Pediatrician,15:15
+1349,"Dr. Alon Leibovitz, MD",Pediatrician,14:45
+1350,"Dr. Jane Soohoo, MD",Pediatrician,09:45
+1351,"Dr. Sha Zhu, MD",Pediatrician,09:45
+1352,"Dr. Chunpang (Tony) Shen, MD",Pediatrician,11:45
+1353,"Dr. Israel Kochin, MD",Pediatrician,09:30
+1354,"Dr. Fay Dachman, MD",Pediatrician,11:15
+1355,"Dr. Richard Merkler, MD",Pediatrician,12:45
+1356,"Dr. Richard Merkler, MD",Pediatrician,10:45
+1357,"Dr. Avraham Gottesman, MD",Pediatrician,10:45
+1358,"Dr. Fay Dachman, MD",Pediatrician,10:30
+1359,"Dr. Florencia Braier, MD",Pediatrician,10:30
+1360,"Dr. Albert Bassoul, MD",Pediatrician,09:15
+1361,"Dr. Tommy Galanis, MD",Pediatrician,09:00
+1362,"Dr. Tommy Galanis, MD",Pediatrician,12:30
+1363,"Dr. Kamran Yahodaei, MD",Pediatrician,13:30
+1364,"Dr. Theresia Tsay, MD",Pediatrician,11:45
+1365,"Dr. Rakesh Dua, MD",Pediatrician,16:30
+1366,"Dr. Maria Turizo, MD",Pediatrician,15:30
+1367,"Dr. Helen Ho, MD",Pediatrician,09:15
+1368,"Dr. Daniela Atanassova-Lineva, MD",Pediatrician,09:00
+1369,"Dr. Daniela Atanassova-Lineva, MD",Pediatrician,16:45
+1370,"Dr. Lyudmila Cavalier, MD",Pediatrician,11:45
+1371,"Dr. Albert Bassoul, MD",Pediatrician,14:00
+1372,"Dr. Heath Bettencourtt, MD",Pediatrician,11:00
+1373,"Dr. Heath Bettencourtt, MD",Pediatrician,10:00
+1374,"Dr. Qing Liu, MD",Pediatrician,09:30
+1375,"Dr. Mario Peichev, MD",Pediatrician,12:45
+1376,"Dr. Ruth Kessler, MD",Pediatrician,16:15
+1377,"Dr. Mario Peichev, MD",Pediatrician,10:45
+1378,"Dr. Sharon Perlman, DO",Pediatrician,10:45
+1379,"Dr. Micah Resnick, MD",Pediatrician,14:30
+1380,"Dr. Helen Ho, MD",Pediatrician,09:00
+1381,"Dr. Lyudmila Cavalier, MD",Pediatrician,15:45
+1382,"Dr. Rimma Pozdnyakova, MD",Pediatrician,09:00
+1383,"Dr. Anise Joseph, MD",Pediatrician,11:15
+1384,"Dr. Tattvamasi Parikh, MD",Pediatrician,14:00
+1385,"Dr. Vivian Tsai, MD",Pediatrician,13:00
+1386,"Dr. Stephanie Lee, DO",Pediatrician,16:30
+1387,"Dr. Roula Ramadi, MD",Pediatrician,10:00
+1388,"Dr. Indranil Gupta, MD",Pediatrician,11:15
+1389,"Dr. Jeremy Chemla, MD",Pediatrician,09:00
+1390,"Dr. Rachel Brozinsky, MD",Pediatrician,17:30
+1391,"Dr. Rachel Brozinsky, MD",Pediatrician,11:30
+1392,"Dr. Marigold Castillo, MD",Pediatrician,14:45
+1393,"Dr. Stephanie Lee, DO",Pediatrician,11:45
+1394,"Dr. Sameera Haroon, MD",Pediatrician,11:15
+1395,"Dr. Mojgan Neman-Kuighadush, MD",Pediatrician,13:15
+1396,"Dr. Marigold Castillo, MD",Pediatrician,10:15
+1397,"Dr. Nataliya Krivitskaya, MD, FAAP",Pediatrician,14:15
+1398,"Dr. Israel Kochin, MD",Pediatrician,10:00
+1399,"Dr. Neha Sirohi, MD",Pediatrician,13:00
+1400,"Dr. Carla Lucacel, MD",Pediatrician,12:00
+1401,"Dr. Brena Desai, MD",Pediatrician,09:45
+1402,"Dr. Shideh Maybody, MD",Pediatrician,09:15
+1403,"Dr. Nataliya Krivitskaya, MD, FAAP",Pediatrician,14:45
+1404,"Dr. David Ko, MD",Pediatrician,09:30
+1405,"Dr. Taiye Apoeso, MD, FAAP",Pediatrician,09:45
+1406,"Dr. Marina Volfson, MD",Pediatrician,13:00
+1407,"Dr. Kamran Yahodaei, MD",Pediatrician,10:00
+1408,"Dr. Rosemary Jackson, MD",Pediatrician,14:45
+1409,"Dr. Maya Golbraykh, MD",Pediatrician,14:15
+1410,"Dr. Neha Sirohi, MD",Pediatrician,17:45
+1411,"Dr. Donald Lawrence, MD",Pediatrician,13:15
+1412,"Dr. Tibor Gershkovich, MD",Pediatrician,17:00
+1413,"Dr. Salim Souid, MD",Pediatrician,13:45
+1414,"Dr. Neha Sirohi, MD",Pediatrician,10:00
+1415,"Dr. Alicia Massop-Flowers, DO",Pediatrician,14:30
+1416,"Dr. Madeline Lalia, MD",Pediatrician,16:00
+1417,"Dr. Beth Kantrowitz, MD",Pediatrician,12:30
+1418,"Dr. Ana Olivero Matos, MD",Pediatrician,17:30
+1419,"Dr. Salim Souid, MD",Pediatrician,11:30
+1420,"Dr. Stuart Feinstein, MD, FAAP",Pediatrician,15:30
+1421,"Dr. Neha Sirohi, MD",Pediatrician,09:45
+1422,"Dr. Neha Sirohi, MD",Pediatrician,11:45
+1423,"Dr. Sameera Haroon, MD",Pediatrician,16:30
+1424,"Dr. Sameera Haroon, MD",Pediatrician,15:30
+1425,"Dr. Sameera Haroon, MD",Pediatrician,17:45
+1426,"Dr. Janet Lazieh, MD",Pediatrician,14:45
+1427,"Dr. Ronald Lang, MD",Pediatrician,12:45
+1428,"Dr. Gunjeet Sahni, MD",Pediatrician,09:30
+1429,"Dr. Arielle Ornstein, MD",Pediatrician,14:30
+1430,"Dr. Ritu Sharma, MD",Pediatrician,12:30
+1431,"Dr. Ruth Kessler, MD",Pediatrician,10:30
+1432,"Dr. Maria Vomvolakis, MD",Pediatrician,12:45
+1433,"Dr. Amy Goldberg, MD",Pediatrician,11:00
+1434,"Dr. Kristin Casasanta, MD",Pediatrician,17:45
+1435,"Dr. Amy Elizabeth Cram, MD",Pediatrician,09:15
+1436,"Dr. Harry Banschick, MD",Pediatrician,16:15
+1437,"Dr. Elvin Akturk, DO",Pediatrician,12:45
+1438,"Dr. Micah Resnick, MD",Pediatrician,12:15
+1439,"Dr. Deann Moore, MD",Pediatrician,09:45
+1440,"Dr. Jonathan Smith, MD",Pediatrician,12:15
+1441,"Dr. Gerard Igel, MD",Pediatrician,17:15
+1442,"Dr. Alicia Massop-Flowers, DO",Pediatrician,17:00
+1443,"Dr. Tosan Oruwariye, MD",Pediatrician,16:15
+1444,"Dr. Salim Souid, MD",Pediatrician,13:15
+1445,"Dr. Jade Tan, MD",Pediatrician,10:45
+1446,"Dr. Robert Clarick, MD",Pediatrician,14:00
+1447,"Dr. Dana Sanderson, MD",Pediatrician,16:15
+1448,"Dr. Helen Ho, MD",Pediatrician,12:15
+1449,"Dr. Mario Peichev, MD",Pediatrician,17:00
+1450,"Dr. Vivian Tsai, MD",Pediatrician,09:00
+1451,"Dr. Neha Sirohi, MD",Pediatrician,13:45
+1452,"Dr. Maryann Garcia-Phillip, MD",Pediatrician,09:00
+1453,"Dr. Rakesh Dua, MD",Pediatrician,13:00
+1454,"Dr. Ikbal Tokat, MD",Pediatrician,16:15
+1455,"Dr. Laura Levinson Gal, MD",Pediatrician,11:15
+1456,"Dr. Kenneth Leon, MD",Pediatrician,14:15
+1457,"Dr. Kenneth Leon, MD",Pediatrician,17:15
+1458,"Dr. Vivian Tsai, MD",Pediatrician,16:15
+1459,"Dr. Brenda Levy, MD",Pediatrician,12:45
+1460,"Dr. Claudia Suarez-Makotsi, MD",Pediatrician,15:15
+1461,"Dr. Rana Matta, MD",Pediatrician,14:45
+1462,"Dr. Rashidah Green, MD",Pediatrician,11:00
+1463,"Dr. Maged Youssef-Ahmed, MD",Pediatrician,13:30
+1464,"Dr. Sara Caldararo, MD",Pediatrician,09:30
+1465,"Dr. Kartika Khanna, MD",Pediatrician,09:45
+1466,"Dr. Maryann Garcia-Phillip, MD",Pediatrician,15:30
+1467,"Dr. Laura Polizzi, MD",Pediatrician,15:30
+1468,"Dr. Thais Castillo, MD",Pediatrician,13:45
+1469,"Dr. Elizabeth Ford, MD",Pediatrician,12:30
+1470,"Dr. Juliana Moylan, MD",Pediatrician,13:15
+1471,"Dr. David Aguirre, MD",Pediatrician,15:30
+1472,"Dr. Margaret Murray, MD",Pediatrician,17:45
+1473,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,09:15
+1474,"Dr. Glenn Jelks, MD",Ophthalmologist,14:15
+1475,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,10:45
+1476,"Dr. Murray Orbuch, MD",Gastroenterologist,10:30
+1477,"Dr. Jahnavi Naik, MD",Gastroenterologist,13:30
+1478,"Dr. Murray Orbuch, MD",Gastroenterologist,12:45
+1479,"Dr. Elena Bruck, MD",Psychiatrist,09:15
+1480,"Dr. Jacob Leivent, MD",Psychiatrist,15:45
+1481,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,10:30
+1482,"Dr. Susan Fiester, MD",Psychiatrist,09:15
+1483,"Dr. Emily Urbina, MD",Psychiatrist,11:00
+1484,"Dr. Jeffrey Ditzell, DO",Psychiatrist,14:15
+1485,"Dr. Arnab Datta, MD",Psychiatrist,14:30
+1486,"Dr. Zlatin Ivanov, MD",Psychiatrist,11:00
+1487,"Dr. Gordon Jay Strauss, MD",Psychiatrist,16:00
+1488,"Dr. Gordon Jay Strauss, MD",Psychiatrist,12:45
+1489,"Dr. Emily Urbina, MD",Psychiatrist,13:45
+1490,"Dr. Sudhir Gadh, MD",Psychiatrist,12:30
+1491,"Dr. Alexander Sheppe, MD",Psychiatrist,16:00
+1492,"Dr. William Gilson, MD",Psychiatrist,16:00
+1493,"Dr. Cameron Mahle, MD",Psychiatrist,09:15
+1494,"Dr. Edward Paul, MD",Psychiatrist,11:15
+1495,"Dr. Nicholas Wisnoski, MD",Psychiatrist,12:30
+1496,"Dr. Anthony Lujack, MD, JD, MS",Psychiatrist,16:15
+1497,"Dr. Nicholas Wisnoski, MD",Psychiatrist,16:15
+1498,"Dr. Zlatin Ivanov, MD",Psychiatrist,11:00
+1499,"Dr. Anthony Lujack, MD, JD, MS",Psychiatrist,17:30
+1500,"Dr. Gordon Jay Strauss, MD",Psychiatrist,11:00
+1501,"Dr. Nicholas Wisnoski, MD",Psychiatrist,16:00
+1502,"Dr. Ziv Cohen, MD",Psychiatrist,16:00
+1503,"Dr. Nivea Calico, MD",Psychiatrist,16:30
+1504,"Dr. Daniel Goodman, MD",Psychiatrist,17:30
+1505,"Dr. Gary R. Brendel, MD",Psychiatrist,15:45
+1506,"Dr. Gregory Sayer, MD",Psychiatrist,11:45
+1507,"Dr. Zlatin Ivanov, MD",Psychiatrist,16:30
+1508,"Dr. Ziv Cohen, MD",Psychiatrist,17:15
+1509,"Dr. Nivea Calico, MD",Psychiatrist,15:00
+1510,"Dr. Roxanna Namavar, DO",Psychiatrist,11:00
+1511,"Dr. Marc Epstein, DO",Psychiatrist,11:15
+1512,"Dr. Marc Epstein, DO",Psychiatrist,15:30
+1513,"Dr. Thomas Finch, MD",Psychiatrist,12:15
+1514,"Dr. Brian Buggie, MD",Psychiatrist,14:00
+1515,"Dr. Brian Buggie, MD",Psychiatrist,13:00
+1516,"Dr. Roger Brunswick, MD",Psychiatrist,11:30
+1517,"Dr. Robert Steinmuller, MD",Psychiatrist,15:45
+1518,"Dr. Goksin Ozkarahan, MD",Psychiatrist,10:15
+1519,"Dr. Zorica Filipovic-Jewell, MD",Psychiatrist,15:45
+1520,"Dr. Elizabeth L. Leung, DO",Psychiatrist,11:30
+1521,"Dr. Michael Colin, MD",Psychiatrist,10:00
+1522,"Dr. Michael Colin, MD",Psychiatrist,16:00
+1523,"Dr. Constance Mennella, DO",Psychiatrist,09:30
+1524,"Dr. Konstantin Nikiforov, MD",Psychiatrist,09:30
+1525,"Dr. Konstantin Nikiforov, MD",Psychiatrist,17:15
+1526,"Dr. Jamey Levy, MD",Psychiatrist,13:00
+1527,"Dr. Niles Drake, MD",Psychiatrist,14:45
+1528,"Dr. Edward Fruitman, MD",Psychiatrist,10:15
+1529,"Dr. Randall Ross, MD",Psychiatrist,17:30
+1530,"Dr. Marc Lener, MD",Psychiatrist,12:45
+1531,"Dr. Laura Baur, MD",Psychiatrist,09:15
+1532,"Dr. Pablo Sanchez-Barranco, MD",Psychiatrist,15:00
+1533,"Dr. Aykut Ozden, MD",Psychiatrist,14:15
+1534,"Dr. Yihou (Mike) Zhou, MD",Psychiatrist,11:45
+1535,"Dr. Shimon Schwartz, MD",Psychiatrist,15:45
+1536,"Dr. Eileen DiFrancesco, MD",Psychiatrist,16:00
+1537,"Dr. Mark Rybakov, DO",Psychiatrist,11:15
+1538,"Dr. Howard Welsh, MD",Psychiatrist,10:45
+1539,"Dr. Amy Bissada, DO",Psychiatrist,14:15
+1540,"Dr. Nicole Naggar, MD",Psychiatrist,17:45
+1541,"Dr. Shama Rathi, MD",Psychiatrist,17:15
+1542,"Dr. Ruchi Shah, MD",Psychiatrist,12:30
+1543,"Dr. Benjamin Cheney, MD",Psychiatrist,10:15
+1544,"Dr. Roey Pasternak, MD",Psychiatrist,16:15
+1545,"Dr. Ileana Benga, MD",Psychiatrist,14:00
+1546,"Dr. Shama Rathi, MD",Psychiatrist,15:15
+1547,"Dr. Cheryl Cottrol, MD",Psychiatrist,13:45
+1548,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,15:30
+1549,"Dr. Edward Fruitman, MD",Psychiatrist,17:00
+1550,"Dr. Norman Lee, MD",Psychiatrist,10:00
+1551,"Dr. Norman Lee, MD",Psychiatrist,13:15
+1552,"Dr. Julia Samton, MD",Psychiatrist,17:45
+1553,"Dr. Daniel Rosen, MD",Psychiatrist,16:45
+1554,"Dr. Aaron Savedoff, MD",Psychiatrist,12:00
+1555,"Dr. Daniel Cohen, MD",Psychiatrist,14:30
+1556,"Dr. Akshay Lohitsa, MD",Psychiatrist,09:45
+1557,"Dr. Kshamta Joshi, MD",Psychiatrist,15:30
+1558,"Dr. Richard Brent, MD",Psychiatrist,12:15
+1559,"Dr. Adam Turner, MD",Psychiatrist,15:00
+1560,"Dr. Aviva Gorig, MD",Psychiatrist,17:00
+1561,"Dr. David Latov, MD",Psychiatrist,14:15
+1562,"Dr. Henry McCurtis, MD",Psychiatrist,14:45
+1563,"Dr. Jonathan Lauter, MD",Psychiatrist,15:45
+1564,"Dr. Adam Raff, MD",Psychiatrist,14:00
+1565,"Dr. Franklin D. Russek, MD",Psychiatrist,14:45
+1566,"Dr. Samuel Basch, MD",Psychiatrist,10:30
+1567,"Dr. Victoria Huan, MD",Psychiatrist,14:30
+1568,"Dr. Abby Altman, MD",Psychiatrist,16:30
+1569,"Dr. Elena Bruck, MD",Psychiatrist,17:00
+1570,"Dr. Edward Fruitman, MD",Psychiatrist,10:00
+1571,"Dr. Sina Saidi, MD",Psychiatrist,13:15
+1572,"Dr. Seth Mandel, MD",Psychiatrist,16:00
+1573,"Dr. Irina Kogan, MD",Psychiatrist,13:45
+1574,"Dr. Gayle S. Goren, MD",Psychiatrist,10:15
+1575,"Dr. David Inwood, MD",Psychiatrist,10:30
+1576,"Dr. Vladan Novakovic, MD",Psychiatrist,12:45
+1577,"Dr. Lisa Salstein, MD",Psychiatrist,14:00
+1578,"Dr. Victoria Huan, MD",Psychiatrist,09:45
+1579,"Dr. Eric Yarbrough, MD",Psychiatrist,17:15
+1580,"Dr. Michael Tanzer, MD",Psychiatrist,09:45
+1581,"Dr. Joseph Otonichar, DO",Psychiatrist,10:15
+1582,"Dr. Nathaniel Mendelsohn, MD",Psychiatrist,16:45
+1583,"Dr. Aruna Khilanani, MD, MA",Psychiatrist,17:00
+1584,"Dr. Pavel Filimonov, MD",Psychiatrist,17:30
+1585,"Dr. Lisa Salstein, MD",Psychiatrist,13:30
+1586,"Dr. Alan Geller, DO",Psychiatrist,14:00
+1587,"Dr. Carolina Biernacki, MD",Psychiatrist,14:45
+1588,"Dr. S. Shane Konrad, MD",Psychiatrist,10:00
+1589,"Dr. Jeanmarie Anderer, MD",Psychiatrist,10:00
+1590,"Dr. Matthew Holden, MD",Psychiatrist,16:45
+1591,"Dr. Angel Caraballo, MD",Psychiatrist,14:30
+1592,"Dr. Darryl Smith, MD",Psychiatrist,11:30
+1593,"Dr. Allison Lee, MD",Psychiatrist,10:15
+1594,"Dr. Jeanmarie Anderer, MD",Psychiatrist,17:00
+1595,"Dr. Nathaniel Mendelsohn, MD",Psychiatrist,09:15
+1596,"Dr. Alicia Salzer, MD",Psychiatrist,14:30
+1597,"Dr. Leighton Brooks, MD",Psychiatrist,11:15
+1598,"Dr. Billy Jones, MD, DFAPA",Psychiatrist,14:00
+1599,"Dr. Jane Algus, MD",Psychiatrist,11:15
+1600,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,12:30
+1601,"Dr. Barry Richman, MD",Psychiatrist,13:45
+1602,"Dr. Barry Richman, MD",Psychiatrist,10:00
+1603,"Dr. Dinshaw Bamji, MD",Psychiatrist,16:30
+1604,"Dr. Sonya Lazarevic, MD",Psychiatrist,16:15
+1605,"Dr. Sonali Sharma, MD, MSc",Psychiatrist,09:30
+1606,"Dr. Christopher Richards, MD",Psychiatrist,16:45
+1607,"Dr. Robert Roy, MD",Psychiatrist,15:45
+1608,"Dr. Nader Galal, MD",Psychiatrist,09:30
+1609,"Dr. Mona Nicolae, MD",Psychiatrist,15:30
+1610,"Dr. George Wing, MD",Psychiatrist,14:45
+1611,"Dr. Susan Abbott, MD",Psychiatrist,09:00
+1612,"Dr. Johnny Lops, DO",Psychiatrist,12:30
+1613,"Dr. Marc Epstein, DO",Psychiatrist,17:00
+1614,"Dr. William Gilson, MD",Psychiatrist,11:00
+1615,"Dr. Martin Olanoff, MD",Psychiatrist,17:45
+1616,"Dr. Marc Epstein, DO",Psychiatrist,09:15
+1617,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,12:45
+1618,"Dr. Adam Raff, MD",Psychiatrist,15:15
+1619,"Dr. Anuj Gupta, MD",Psychiatrist,09:30
+1620,"Dr. Mark Rybakov, DO",Psychiatrist,10:30
+1621,"Dr. Eran Feit, MD",Psychiatrist,14:45
+1622,"Dr. Ileana Benga, MD",Psychiatrist,09:15
+1623,"Dr. Jonathan Lauter, MD",Psychiatrist,09:15
+1624,"Dr. A. Valentine Raiteri, MD",Psychiatrist,12:30
+1625,"Dr. Mary Salke, MD",Psychiatrist,15:30
+1626,"Dr. Michael DeMeo, MD",Psychiatrist,16:15
+1627,"Dr. Zorica Filipovic-Jewell, MD",Psychiatrist,11:00
+1628,"Dr. Yuli Fradkin, MD",Psychiatrist,09:45
+1629,"Dr. Mark Rybakov, DO",Psychiatrist,12:45
+1630,"Dr. Stanley Turecki, MD",Psychiatrist,15:30
+1631,"Dr. Mayra Cabrera, MD",Psychiatrist,12:45
+1632,"Dr. Elizabeth Anto, MD",Psychiatrist,12:45
+1633,"Dr. Irina Kogan, MD",Psychiatrist,15:45
+1634,"Dr. Irina Kogan, MD",Psychiatrist,17:15
+1635,"Dr. Gayle S. Goren, MD",Psychiatrist,16:00
+1636,"Dr. Jabari Jones, MD",Psychiatrist,11:15
+1637,"Dr. Bradley Miller, MD, PhD",Psychiatrist,16:45
+1638,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,16:30
+1639,"Dr. Eleni Maloutas, MD",Psychiatrist,17:45
+1640,"Dr. Roger Brunswick, MD",Psychiatrist,11:00
+1641,"Dr. John Barsa, MD",Psychiatrist,11:15
+1642,"Dr. Nina Greif, DO",Psychiatrist,16:15
+1643,"Dr. Lynda Mandell, MD, PhD",Psychiatrist,11:30
+1644,"Dr. Howard Welsh, MD",Psychiatrist,14:30
+1645,"Dr. Johnny Lops, DO",Psychiatrist,15:15
+1646,"Dr. Ryan S. Sultan, MD",Psychiatrist,12:15
+1647,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,10:30
+1648,"Dr. Elena Bruck, MD",Psychiatrist,16:00
+1649,"Dr. Susan Fiester, MD",Psychiatrist,10:45
+1650,"Dr. Emily Urbina, MD",Psychiatrist,14:45
+1651,"Dr. Sudhir Gadh, MD",Psychiatrist,11:30
+1652,"Dr. Emily Urbina, MD",Psychiatrist,11:15
+1653,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:00
+1654,"Dr. Gordon Jay Strauss, MD",Psychiatrist,09:45
+1655,"Dr. William Gilson, MD",Psychiatrist,09:15
+1656,"Dr. Nicholas Wisnoski, MD",Psychiatrist,10:00
+1657,"Dr. Nivea Calico, MD",Psychiatrist,13:30
+1658,"Dr. Gordon Jay Strauss, MD",Psychiatrist,12:00
+1659,"Dr. Cameron Mahle, MD",Psychiatrist,11:30
+1660,"Dr. Brian Buggie, MD",Psychiatrist,09:15
+1661,"Dr. Brian Buggie, MD",Psychiatrist,11:15
+1662,"Dr. Daniel Goodman, MD",Psychiatrist,09:30
+1663,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,09:45
+1664,"Dr. Sean Lager, MD",Orthopedic Surgeon,17:15
+1665,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,10:00
+1666,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,12:00
+1667,"Dr. Marco Yeung, MD",Orthopedic Surgeon,16:00
+1668,"Dr. Marco Yeung, MD",Orthopedic Surgeon,10:45
+1669,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,16:00
+1670,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,13:45
+1671,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,15:00
+1672,"Dr. Matthew Mendez-Zfass, MD",Orthopedic Surgeon,09:00
+1673,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,16:45
+1674,"Dr. Andrew Feldman, MD",Orthopedic Surgeon,16:00
+1675,"Dr. Robert Ziets, MD",Orthopedic Surgeon,15:00
+1676,"Dr. Gregory Galano, MD",Orthopedic Surgeon,16:30
+1677,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,16:30
+1678,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,12:45
+1679,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,15:45
+1680,"Dr. Adam Cohen, MD",Orthopedic Surgeon,09:15
+1681,"Dr. Andrew Turtel, MD",Orthopedic Surgeon,14:00
+1682,"Dr. Howard Rose, MD",Orthopedic Surgeon,14:45
+1683,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,17:30
+1684,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,13:15
+1685,"Dr. Sameh Elguizaoui, MD",Orthopedic Surgeon,12:45
+1686,"Dr. Brandon Erickson, MD",Orthopedic Surgeon,12:45
+1687,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,15:00
+1688,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,15:45
+1689,"Dr. Adam Cohen, MD",Orthopedic Surgeon,15:45
+1690,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,10:00
+1691,"Dr. Brandon Erickson, MD",Orthopedic Surgeon,16:30
+1692,"Dr. Benjamin Rosenstadt, MD",Orthopedic Surgeon,14:30
+1693,"Dr. Howard Rose, MD",Orthopedic Surgeon,11:45
+1694,"Dr. Sabrina Strickland, MD",Orthopedic Surgeon,15:30
+1695,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,17:30
+1696,"Dr. Aruna Seneviratne, MD",Orthopedic Surgeon,12:15
+1697,"Dr. Neil S. Roth, MD",Orthopedic Surgeon,13:45
+1698,"Dr. Stanley Liebowitz, MD",Orthopedic Surgeon,09:30
+1699,"Dr. Neil S. Roth, MD",Orthopedic Surgeon,17:15
+1700,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,15:15
+1701,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,09:00
+1702,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,15:45
+1703,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,13:45
+1704,"Dr. Sean Lager, MD",Orthopedic Surgeon,09:45
+1705,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,17:15
+1706,"Dr. Andrew Feldman, MD",Orthopedic Surgeon,11:15
+1707,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,12:15
+1708,"Dr. George Ackerman, MD",Orthopedic Surgeon,10:15
+1709,"Dr. Gregory Galano, MD",Orthopedic Surgeon,16:30
+1710,"Dr. Howard Rose, MD",Orthopedic Surgeon,16:00
+1711,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,14:00
+1712,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,15:00
+1713,"Dr. Brandon Erickson, MD",Orthopedic Surgeon,12:45
+1714,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,10:45
+1715,"Dr. Adam Cohen, MD",Orthopedic Surgeon,13:30
+1716,"Dr. Shawn Anthony, MD",Orthopedic Surgeon,11:15
+1717,"Dr. Adam Cohen, MD",Orthopedic Surgeon,14:15
+1718,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,09:15
+1719,"Dr. Gregory Montalbano, MD",Orthopedic Surgeon,15:45
+1720,"Dr. Benjamin Rosenstadt, MD",Orthopedic Surgeon,16:15
+1721,"Dr. Meghan Bishop, MD",Orthopedic Surgeon,14:00
+1722,"Dr. Elena Bruck, MD",Psychiatrist,16:15
+1723,"Dr. Jacob Leivent, MD",Psychiatrist,10:15
+1724,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,15:00
+1725,"Dr. Susan Fiester, MD",Psychiatrist,16:30
+1726,"Dr. William Gilson, MD",Psychiatrist,11:30
+1727,"Dr. Gordon Jay Strauss, MD",Psychiatrist,14:15
+1728,"Dr. Gordon Jay Strauss, MD",Psychiatrist,12:30
+1729,"Dr. Nivea Calico, MD",Psychiatrist,10:15
+1730,"Dr. Nicholas Wisnoski, MD",Psychiatrist,14:15
+1731,"Dr. Sudhir Gadh, MD",Psychiatrist,16:15
+1732,"Dr. Gordon Jay Strauss, MD",Psychiatrist,16:00
+1733,"Dr. Nicholas Wisnoski, MD",Psychiatrist,16:15
+1734,"Dr. Cameron Mahle, MD",Psychiatrist,17:30
+1735,"Dr. Nivea Calico, MD",Psychiatrist,13:00
+1736,"Dr. Ziv Cohen, MD",Psychiatrist,12:45
+1737,"Dr. Daniel Goodman, MD",Psychiatrist,11:15
+1738,"Dr. Anthony Lujack, MD, JD, MS",Psychiatrist,11:00
+1739,"Dr. Norman Lee, MD",Psychiatrist,09:00
+1740,"Dr. Gary R. Brendel, MD",Psychiatrist,15:00
+1741,"Dr. Goksin Ozkarahan, MD",Psychiatrist,09:00
+1742,"Dr. Jamey Levy, MD",Psychiatrist,17:00
+1743,"Dr. Ziv Cohen, MD",Psychiatrist,12:15
+1744,"Dr. Zorica Filipovic-Jewell, MD",Psychiatrist,15:45
+1745,"Dr. Konstantin Nikiforov, MD",Psychiatrist,15:45
+1746,"Dr. Konstantin Nikiforov, MD",Psychiatrist,11:00
+1747,"Dr. Brian Buggie, MD",Psychiatrist,14:00
+1748,"Dr. Brian Buggie, MD",Psychiatrist,12:15
+1749,"Dr. Michael Colin, MD",Psychiatrist,17:00
+1750,"Dr. Edward Fruitman, MD",Psychiatrist,15:45
+1751,"Dr. Laura Baur, MD",Psychiatrist,14:15
+1752,"Dr. Roxanna Namavar, DO",Psychiatrist,12:00
+1753,"Dr. Howard Welsh, MD",Psychiatrist,17:30
+1754,"Dr. Robert Steinmuller, MD",Psychiatrist,14:00
+1755,"Dr. Elena Bruck, MD",Psychiatrist,13:45
+1756,"Dr. Constance Mennella, DO",Psychiatrist,17:30
+1757,"Dr. Nicole Naggar, MD",Psychiatrist,12:30
+1758,"Dr. Pablo Sanchez-Barranco, MD",Psychiatrist,15:15
+1759,"Dr. Eric Yarbrough, MD",Psychiatrist,16:30
+1760,"Dr. Yihou (Mike) Zhou, MD",Psychiatrist,11:15
+1761,"Dr. Kshamta Joshi, MD",Psychiatrist,15:15
+1762,"Dr. Ruchi Shah, MD",Psychiatrist,09:45
+1763,"Dr. Christine Fitzpatrick, MD",Neurologist,16:45
+1764,"Dr. Michael Tanzer, MD",Psychiatrist,11:00
+1765,"Dr. Julia Samton, MD",Psychiatrist,13:30
+1766,"Dr. Daniel Rosen, MD",Psychiatrist,10:30
+1767,"Dr. Michael Carciente, MD",Neurologist,13:00
+1768,"Dr. Cynthia Harden, MD",Neurologist,17:00
+1769,"Dr. Stephen Coleman, MD, LAc",Psychiatrist,14:45
+1770,"Dr. Adam Raff, MD",Psychiatrist,13:30
+1771,"Dr. David Latov, MD",Psychiatrist,12:15
+1772,"Dr. Samuel Basch, MD",Psychiatrist,10:45
+1773,"Dr. Abby Altman, MD",Psychiatrist,16:15
+1774,"Dr. Seth Mandel, MD",Psychiatrist,16:45
+1775,"Dr. Richard Brent, MD",Psychiatrist,11:30
+1776,"Dr. Michael Hutchinson, MD, PhD",Neurologist,10:00
+1777,"Dr. Risa Ravitz, MD",Neurologist,15:30
+1778,"Dr. Neil Rosenthal, MD",Neurologist,15:45
+1779,"Dr. Allison Lee, MD",Psychiatrist,09:15
+1780,"Dr. Debra Shabas, MD",Neurologist,09:30
+1781,"Dr. Sylvia Mohen, MD",Neurologist,13:00
+1782,"Dr. Cindy Jadoo, MD",Neurologist,15:30
+1783,"Dr. Roman Isaac, MD",Orthopedic Surgeon,09:30
+1784,"Dr. Kazimierz Komperda, MD",Orthopedic Surgeon,10:45
+1785,"Dr. Kazimierz Komperda, MD",Orthopedic Surgeon,12:15
+1786,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,17:15
+1787,"Dr. Jacob Rozbruch, MD",Orthopedic Surgeon,12:45
+1788,"Dr. Marco Yeung, MD",Orthopedic Surgeon,17:15
+1789,"Dr. Marco Yeung, MD",Orthopedic Surgeon,17:00
+1790,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,13:45
+1791,"Dr. Gregory Galano, MD",Orthopedic Surgeon,12:30
+1792,"Dr. Oladapo M. Babatunde, MD, FAAOS",Orthopedic Surgeon,17:15
+1793,"Dr. Adam Cohen, MD",Orthopedic Surgeon,11:30
+1794,"Dr. Robert Ziets, MD",Orthopedic Surgeon,14:15
+1795,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,11:15
+1796,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,17:45
+1797,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,17:30
+1798,"Dr. Johnny Arnouk, MD",Orthopedic Surgeon,12:45
+1799,"Dr. Adam Cohen, MD",Orthopedic Surgeon,17:45
+1800,"Dr. Jonathan Gordon, MD",Orthopedic Surgeon,11:45
+1801,"Dr. Stanley Liebowitz, MD",Orthopedic Surgeon,15:00
+1802,"Dr. Marco Yeung, MD",Orthopedic Surgeon,11:15
+1803,"Dr. Michael Seidenstein, MD",Orthopedic Surgeon,11:45
+1804,"Dr. Marco Yeung, MD",Orthopedic Surgeon,12:45
+1805,"Dr. Aleksey Lazarev, MD",Orthopedic Surgeon,13:15
+1806,"Dr. Imran Ashraf, MD",Orthopedic Surgeon,16:45
+1807,"Dr. Roman Isaac, MD",Orthopedic Surgeon,15:15
+1808,"Dr. Sean Lager, MD",Orthopedic Surgeon,11:00
+1809,"Dr. Jeffrey Yormak, MD, FAAOS",Orthopedic Surgeon,14:15
+1810,"Dr. Marco Yeung, MD",Orthopedic Surgeon,15:15
+1811,"Dr. Elena Bruck, MD",Psychiatrist,13:00
+1812,"Dr. Phoebus Jim Dhrymes, MD",Psychiatrist,15:45
+1813,"Dr. Emily Urbina, MD",Psychiatrist,15:30
+1814,"Dr. Susan Fiester, MD",Psychiatrist,10:00
+1815,"Dr. Gordon Jay Strauss, MD",Psychiatrist,13:30
+1816,"Dr. Sudhir Gadh, MD",Psychiatrist,16:45
+1817,"Dr. Gordon Jay Strauss, MD",Psychiatrist,10:15
+1818,"Dr. Gordon Jay Strauss, MD",Psychiatrist,14:30
+1819,"Dr. Emily Urbina, MD",Psychiatrist,15:45
+1820,"Dr. William Gilson, MD",Psychiatrist,13:15
+1821,"Dr. Nivea Calico, MD",Psychiatrist,09:30
+1822,"Dr. Nicholas Wisnoski, MD",Psychiatrist,10:45
+1823,"Dr. Cameron Mahle, MD",Psychiatrist,14:45
+1824,"Dr. Gordon Jay Strauss, MD",Psychiatrist,13:15
+1825,"Dr. Ziv Cohen, MD",Psychiatrist,11:15
+1826,"Dr. Brian Buggie, MD",Psychiatrist,10:00
+1827,"Dr. Brian Buggie, MD",Psychiatrist,17:00
+1828,"Dr. Nivea Calico, MD",Psychiatrist,11:30
+1829,"Dr. Anthony Lujack, MD, JD, MS",Psychiatrist,14:45
+1830,"Dr. Ziv Cohen, MD",Psychiatrist,09:30
+1831,"Dr. Daniel Goodman, MD",Psychiatrist,15:15
+1832,"Dr. Jamey Levy, MD",Psychiatrist,15:00
+1833,"Dr. Gary R. Brendel, MD",Psychiatrist,17:15
+1834,"Dr. Konstantin Nikiforov, MD",Psychiatrist,13:45
+1835,"Dr. Boris Petrikovsky, MD",Gynecologist,15:15
+1836,"Dr. Boris Petrikovsky, MD",Gynecologist,16:15
+1837,"Dr. Boris Petrikovsky, MD",Gynecologist,09:15
+1838,"Dr. Stanislaw Niznikiewicz, MD, FACOG",Gynecologist,16:00
+1839,"Dr. James A. Gohar, MD",Gynecologist,15:30
+1840,"Dr. Fay Dachman, MD",Pediatrician,11:45
+1841,"Dr. Zvi Ben-Zvi, MD",Pediatrician,16:15

@@ -12,7 +12,7 @@ TEXT_COLOR = "#EAECEE"
 
 FONT = "Helvetica 14"
 FONT_BOLD = "Helvetica 13 bold"
-question_number=0
+
 disease_specialty_map = {
     "Cardiologist": ["Coronary artery disease", "Arrhythmia"],
     "Dermatologist": ["Acne", "Eczema"],
@@ -26,27 +26,25 @@ disease_specialty_map = {
     "Ophthalmologist": ["Cataracts", "Glaucoma"]
 }
 
-def get_response(message):
-    global question_number
-    print(question_number)
-    if question_number == 0:
-        question_number+=1
-        return "Hi! How can I assist you today? What is your gender?"
-    elif question_number == 1:
-        question_number+=1
-        return "Great! Could you please tell me your age?"      
-    elif question_number == 2:
-        question_number+=1
-        return "What is your neighborhood?"
-    elif question_number == 3:
-        question_number+=1
-        return "Do you have any scholarship? If yes, please provide the details."
-    elif question_number == 4:
-        question_number+=1
-        return "Please select your disease type from the options provided."
-    
-bot_name = "Sam"
+questions = [
+    "Hi! How can I assist you today? What is your gender?",
+    "Great! Could you please tell me your age?" ,
+    "What is your neighborhood?",
+    "Another random question",
+    "Do you have any scholarship? If yes, please provide the details.",
+    "Please select your disease type from the options provided.",
+]
 
+def get_questions():
+    for q in questions:
+        yield q
+
+question = get_questions()
+
+def get_response(message):
+    return next(question)
+
+bot_name = "Sam"
 
 class ChatApplication:
     
